@@ -18,19 +18,18 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
+title: Daniel Yang's Programming Blog
 email: danielyang2002@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Hello! My name is Daniel Yang and I am a student at Cinco Ranch High School in Katy, Texas. I have a passion for computer science and programming.
+  This is my programming blog where I post about what I am doing in programming. I plan to post whatever projects I have completed and some updates on current projects.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username: danielyanger
+twitter_username: Daniel_Yanger
+github_username: Danielyanger
 
 # Build settings
-theme: jekyll-theme-slate
+theme: minima
 plugins:
   - jekyll-feed
 # Exclude from processing.
