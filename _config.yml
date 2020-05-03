@@ -30,7 +30,7 @@ twitter_username: jekyllrb
 github_username: danielyanger
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 # Exclude from processing.
