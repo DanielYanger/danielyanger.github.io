@@ -9,7 +9,7 @@ This is my first project that I am working on with my robotics team, FRC Team 62
 
 # Skills
 
-I learned a lot of useful skills through this project including php, CSS, HTML, and Javascript. I worked on mostly the design of certain modules within the site. I used Javascript to make integer incrementors and zebra striped, sortable tables. This was also my first introduction to Git and version control, something I can defenitly improve on as I continue working on the project.
+I learned a lot of useful skills through this project including CSS, HTML, and Javascript. I worked on mostly the design of certain modules within the site. I used Javascript to make integer incrementors and zebra striped, sortable tables. This was also my first introduction to Git and version control, something I can defenitly improve on as I continue working on the project.
 
 # Git Project
 
