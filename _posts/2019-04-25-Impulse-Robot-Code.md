@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Impulse Robot Code"
-permalink: /impulse/
 ---
 
 # Introduction
