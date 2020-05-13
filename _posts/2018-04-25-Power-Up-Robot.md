@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "2018 FRC Power Up Robot Code"
+permalink: /power-up/
 ---
 
 # Introduction
