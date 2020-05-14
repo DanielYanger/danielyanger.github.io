@@ -29,7 +29,7 @@ twitter_username: Daniel_Yanger
 github_username: Danielyanger
 
 # Build settings
-theme: jekyll-theme-slate
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 # Exclude from processing.
