@@ -1,7 +1,6 @@
 ---
 layout: "post"
 title: "Scouting Whitepaper"
-permalink: /scouting-white-paper/
 ---
 
 # Introduction
