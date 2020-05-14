@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "624 Scouting Website"
-permalink: /scouting-website/
 ---
 
 # Introduction
