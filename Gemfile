@@ -8,11 +8,13 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 gem "jekyll", "~> 4.0.0"
+#gem "jekyll", "~> 3.5"
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
+#gem 'jekyll-theme-midnight', '~> 0.1.1'
 gem "minima", "~> 2.5"
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
-# gem "github-pages", group: :jekyll_plugins
+#gem "github-pages", group: :jekyll_plugins
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
@@ -24,6 +26,7 @@ install_if -> { RUBY_PLATFORM =~ %r!mingw|mswin|java! } do
   gem "tzinfo", "~> 1.2"
   gem "tzinfo-data"
   gem "texture"
+  #gem "jekyll-remote-theme"
 end
 
 # Performance-booster for watching directories on Windows

@@ -13,7 +13,7 @@ I learned a lot of useful skills through this project including CSS, HTML, and J
 
 # Git Project
 
-Unfortunately, the code to our scouting database is not avalible to the public. However, I will try and include some images of my work below.
+Unfortunately, the code to our scouting database is not avalible to the public. However, I will try and include some images of my work below. ![image](_posts\assets\More-Testing.png)
 
 # Moving Forward
 
