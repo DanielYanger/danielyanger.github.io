@@ -1,4 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-15T17:40:47-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Daniel Yang’s Programming Blog</title><subtitle>Hello! My name is Daniel Yang and I am a student at Cinco Ranch High School in Katy, Texas. I have a passion for computer science and programming. This is my programming blog where I post about what I am doing in programming. I plan to post whatever projects I have completed and some updates on current projects.</subtitle><entry><title type="html">Learning React</title><link href="http://localhost:4000/2020/03/27/Learning-React.html" rel="alternate" type="text/html" title="Learning React" /><published>2020-03-27T00:00:00-05:00</published><updated>2020-03-27T00:00:00-05:00</updated><id>http://localhost:4000/2020/03/27/Learning-React</id><content type="html" xml:base="http://localhost:4000/2020/03/27/Learning-React.html">&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-16T18:34:49-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Daniel Yang’s Programming Blog</title><subtitle>Hello! My name is Daniel Yang and I am a student at Cinco Ranch High School in Katy, Texas. I have a passion for computer science and programming. This is my programming blog where I post about what I am doing in programming. I plan to post whatever projects I have completed and some updates on current projects.</subtitle><entry><title type="html">Shirt Trading Database</title><link href="http://localhost:4000/2020/05/16/Shirt-Trading.html" rel="alternate" type="text/html" title="Shirt Trading Database" /><published>2020-05-16T00:00:00-05:00</published><updated>2020-05-16T00:00:00-05:00</updated><id>http://localhost:4000/2020/05/16/Shirt-Trading</id><content type="html" xml:base="http://localhost:4000/2020/05/16/Shirt-Trading.html">&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
+
+&lt;p&gt;I got a bit bored after getting 2/3 of the way through my AP exams, so I decided to just look into some SQL stuff. I created this simple form that handles inputs for my shirt trading addicti, I mean hobby. It’s really basic right now and since it’s hosted on GitHub Pages doesn’t work, but I thought I should show it off anyways.&lt;/p&gt;
+
+&lt;h1 id=&quot;skills&quot;&gt;Skills&lt;/h1&gt;
+
+&lt;p&gt;I learned a lot more about SQL, databases, and php, while brushing up on some basic HTML. I created my first personal SQL server (it’s on a sketchy site, I know but none of this is important or sensetive) and got it working locally.&lt;/p&gt;
+
+&lt;h1 id=&quot;repository&quot;&gt;Repository&lt;/h1&gt;
+
+&lt;p&gt;The repository can be found &lt;a href=&quot;https://github.com/DanielYanger/shirtTrading&quot;&gt;here&lt;/a&gt;, while the live site (that doesn’t work) can be found &lt;a href=&quot;https://danielyanger.github.io/shirtTrading/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&quot;moving-forward&quot;&gt;Moving Forward&lt;/h1&gt;
+
+&lt;p&gt;This was a quick project that looks pretty bad. I plan to freshen it up a bit with CSS and add more features to make it more of a website. I plan to add a page where you can view my inventory (need to figure a way to do that on GitHub Pages or move to another free platform) and submit a trade request. Since it’s AP week, I don’t know when I’ll get back to it but we will see.&lt;/p&gt;</content><author><name></name></author><summary type="html">Introduction</summary></entry><entry><title type="html">Learning React</title><link href="http://localhost:4000/2020/03/27/Learning-React.html" rel="alternate" type="text/html" title="Learning React" /><published>2020-03-27T00:00:00-05:00</published><updated>2020-03-27T00:00:00-05:00</updated><id>http://localhost:4000/2020/03/27/Learning-React</id><content type="html" xml:base="http://localhost:4000/2020/03/27/Learning-React.html">&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
 
 &lt;p&gt;With more time on my hands due to the COVID-19 outbreak, I took the oppurtunity to learn more about programming. One of the first things I learned about was React. I followed a simple YouTube tutorial that guided me through setting up and using React.&lt;/p&gt;
 
@@ -104,18 +118,4 @@
 
 &lt;h1 id=&quot;update-september-2019&quot;&gt;Update September 2019&lt;/h1&gt;
 
-&lt;p&gt;After much deliberation, the team has elected to move our website to Wordpress. &lt;a href=&quot;http://team624.org/&quot;&gt;Team624.org&lt;/a&gt; will no longer be maintained. The new site can be found at &lt;a href=&quot;http://frc624.org/&quot;&gt;frc624.org&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">Introduction</summary></entry><entry><title type="html">2018 FRC Power Up Robot Code</title><link href="http://localhost:4000/2018/04/25/Power-Up-Robot.html" rel="alternate" type="text/html" title="2018 FRC Power Up Robot Code" /><published>2018-04-25T00:00:00-05:00</published><updated>2018-04-25T00:00:00-05:00</updated><id>http://localhost:4000/2018/04/25/Power-Up-Robot</id><content type="html" xml:base="http://localhost:4000/2018/04/25/Power-Up-Robot.html">&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
-
-&lt;p&gt;This is the code for my robotics team’s 2018 robot, PaCRat. PaCRat is coded in LabVIEW. This was my first year on the programming subteam and my first exposure to LabVIEW. As a graphical language, it was very different from other text based languages that I had been learning about such as HTML or Java.&lt;/p&gt;
-
-&lt;h1 id=&quot;skills&quot;&gt;Skills&lt;/h1&gt;
-
-&lt;p&gt;This was my first project that used LabVIEW. Additiionally, I learned a lot about hardware integration while programming the robot, such as using encoders, motor controllers, and various sensors.&lt;/p&gt;
-
-&lt;h1 id=&quot;git-project&quot;&gt;Git Project&lt;/h1&gt;
-
-&lt;p&gt;The repository for the project is located &lt;a href=&quot;https://github.com/Team624/2018Robot&quot;&gt;here&lt;/a&gt;. As a freshman and noivce programmer, I did most of my testing on seperate branches that were later merged onto the master branch by senior programmers.&lt;/p&gt;
-
-&lt;h1 id=&quot;moving-forward&quot;&gt;Moving Forward&lt;/h1&gt;
-
-&lt;p&gt;This is the end of this project as the 2018 FRC season comes to a close. However, I have 3 more years of robotics left in high school so there will be 3 more robots left to program. Looking forward to these new challenges!&lt;/p&gt;</content><author><name></name></author><summary type="html">Introduction</summary></entry></feed>
+&lt;p&gt;After much deliberation, the team has elected to move our website to Wordpress. &lt;a href=&quot;http://team624.org/&quot;&gt;Team624.org&lt;/a&gt; will no longer be maintained. The new site can be found at &lt;a href=&quot;http://frc624.org/&quot;&gt;frc624.org&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">Introduction</summary></entry></feed>
