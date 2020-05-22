@@ -10,7 +10,7 @@ relative_permalinks: false
 title: Daniel's Blog
 tagline: "Home of my programs"
 description: "Welcome to my programming blog! I have plenty of posts about my programming (and some non-programming) achievements."
-url: http://hyde.getpoole.com
+url: https://danielyanger.github.io/
 baseurl: /
 
 author:
