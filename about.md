@@ -1,30 +1,10 @@
 ---
 layout: page
-title: About
+title: About Me
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+My name is Daniel Yang. I am currently a rising senior at Cinco Ranch High School. I have a passion for programming of all kinds, from data analysis to app development. I am currently on my school’s robotics team, FRC Team 624. On the team, I am the director of the website subteam and the assistant director of the programming subteam.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+In my free time, I love to learn more about programming. This was my first year participating in USACO and achieved Silver after only 1 competition with little formal training. I also like to tinker with small projects to learn more about programming.
 
-There are currently two themes built on Poole:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+In addition to these, I also participate in countless other extra curricular activites. I am an honors member of my school’s Academic Decathelon team as well as an Eagle Scout. I have marched 3 years with my high school’s marching band and am the Vice President of Tutoring for my school’s Mu Alpha Theta program.
