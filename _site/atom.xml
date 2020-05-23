@@ -4,7 +4,7 @@
  <title>Daniel's Blog</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-05-22T20:43:50-05:00</updated>
+ <updated>2020-05-22T20:44:15-05:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Daniel Yang</name>
@@ -41,15 +41,15 @@
    <link href="http://localhost:4000/2020/04/15/Python/"/>
    <updated>2020-04-15T00:00:00-05:00</updated>
    <id>http://localhost:4000/2020/04/15/Python</id>
-   <content type="html">&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
+   <content type="html">&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
 
 &lt;p&gt;Over the course of the past few weeks, I’ve started to learn Python. I completed the Python 3 course on Code Academy as well as a couple of other courses related to Python.&lt;/p&gt;
 
-&lt;h1 id=&quot;skills&quot;&gt;Skills&lt;/h1&gt;
+&lt;h2 id=&quot;skills&quot;&gt;Skills&lt;/h2&gt;
 
 &lt;p&gt;Given that I am already proficient in Java, Python was not difficult to grasp. The syntax took a bit of getting used to and brushing off some of my Java habits took a while.&lt;/p&gt;
 
-&lt;h1 id=&quot;moving-forward&quot;&gt;Moving Forward&lt;/h1&gt;
+&lt;h2 id=&quot;moving-forward&quot;&gt;Moving Forward&lt;/h2&gt;
 
 &lt;p&gt;Now that I know Python, I can start looking into more projects. Even though many of the things I want to do could be done in Java, I want to continue to push myself and improve my Python skills.&lt;/p&gt;
 </content>
