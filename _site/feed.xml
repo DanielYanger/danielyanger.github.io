@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-21T21:49:37-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Daniel’s Blog</title><subtitle>Welcome to my programming blog! I have plenty of posts about my programming (and some non-programming) achievements.</subtitle><author><name>Daniel Yang</name></author><entry><title type="html">Shirt Trading Database</title><link href="http://localhost:4000/2020/05/16/Shirt-Trading/" rel="alternate" type="text/html" title="Shirt Trading Database" /><published>2020-05-16T00:00:00-05:00</published><updated>2020-05-16T00:00:00-05:00</updated><id>http://localhost:4000/2020/05/16/Shirt-Trading</id><content type="html" xml:base="http://localhost:4000/2020/05/16/Shirt-Trading/">&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-22T20:24:55-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Daniel’s Blog</title><subtitle>Welcome to my programming blog! I have plenty of posts about my programming (and some non-programming) achievements.</subtitle><author><name>Daniel Yang</name></author><entry><title type="html">Shirt Trading Database</title><link href="http://localhost:4000/2020/05/16/Shirt-Trading/" rel="alternate" type="text/html" title="Shirt Trading Database" /><published>2020-05-16T00:00:00-05:00</published><updated>2020-05-16T00:00:00-05:00</updated><id>http://localhost:4000/2020/05/16/Shirt-Trading</id><content type="html" xml:base="http://localhost:4000/2020/05/16/Shirt-Trading/">&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
 
 &lt;p&gt;I got a bit bored after getting 2/3 of the way through my AP exams, so I decided to just look into some SQL stuff. I created this simple form that handles inputs for my shirt trading addicti, I mean hobby. It’s really basic right now and since it’s hosted on GitHub Pages doesn’t work, but I thought I should show it off anyways.&lt;/p&gt;
 
@@ -12,17 +12,7 @@
 
 &lt;h1 id=&quot;moving-forward&quot;&gt;Moving Forward&lt;/h1&gt;
 
-&lt;p&gt;This was a quick project that looks pretty bad. I plan to freshen it up a bit with CSS and add more features to make it more of a website. I plan to add a page where you can view my inventory (need to figure a way to do that on GitHub Pages or move to another free platform) and submit a trade request. Since it’s AP week, I don’t know when I’ll get back to it but we will see.&lt;/p&gt;</content><author><name>Daniel Yang</name></author><summary type="html">Introduction</summary></entry><entry><title type="html">Learning Python</title><link href="http://localhost:4000/2020/04/15/Python/" rel="alternate" type="text/html" title="Learning Python" /><published>2020-04-15T00:00:00-05:00</published><updated>2020-04-15T00:00:00-05:00</updated><id>http://localhost:4000/2020/04/15/Python</id><content type="html" xml:base="http://localhost:4000/2020/04/15/Python/">&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
-
-&lt;p&gt;Over the course of the past few weeks, I’ve started to learn Python. I completed the Python 3 course on Code Academy as well as a couple of other courses related to Python.&lt;/p&gt;
-
-&lt;h1 id=&quot;skills&quot;&gt;Skills&lt;/h1&gt;
-
-&lt;p&gt;Given that I am already proficient in Java, Python was not difficult to grasp. The syntax took a bit of getting used to and brushing off some of my Java habits took a while.&lt;/p&gt;
-
-&lt;h1 id=&quot;moving-forward&quot;&gt;Moving Forward&lt;/h1&gt;
-
-&lt;p&gt;Now that I know Python, I can start looking into more projects. Even though many of the things I want to do could be done in Java, I want to continue to push myself and improve my Python skills.&lt;/p&gt;</content><author><name>Daniel Yang</name></author><summary type="html">Introduction</summary></entry><entry><title type="html">Learning React</title><link href="http://localhost:4000/2020/03/27/Learning-React/" rel="alternate" type="text/html" title="Learning React" /><published>2020-03-27T00:00:00-05:00</published><updated>2020-03-27T00:00:00-05:00</updated><id>http://localhost:4000/2020/03/27/Learning-React</id><content type="html" xml:base="http://localhost:4000/2020/03/27/Learning-React/">&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;This was a quick project that looks pretty bad. I plan to freshen it up a bit with CSS and add more features to make it more of a website. I plan to add a page where you can view my inventory (need to figure a way to do that on GitHub Pages or move to another free platform) and submit a trade request. Since it’s AP week, I don’t know when I’ll get back to it but we will see.&lt;/p&gt;</content><author><name>Daniel Yang</name></author><summary type="html">Introduction</summary></entry><entry><title type="html">Learning React</title><link href="http://localhost:4000/2020/03/27/Learning-React/" rel="alternate" type="text/html" title="Learning React" /><published>2020-03-27T00:00:00-05:00</published><updated>2020-03-27T00:00:00-05:00</updated><id>http://localhost:4000/2020/03/27/Learning-React</id><content type="html" xml:base="http://localhost:4000/2020/03/27/Learning-React/">&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
 
 &lt;p&gt;With more time on my hands due to the COVID-19 outbreak, I took the oppurtunity to learn more about programming. One of the first things I learned about was React. I followed a simple YouTube tutorial that guided me through setting up and using React.&lt;/p&gt;
 
@@ -50,25 +40,7 @@
 
 &lt;h1 id=&quot;moving-forward&quot;&gt;Moving Forward&lt;/h1&gt;
 
-&lt;p&gt;Since next year will be my senior year, I plan to utilize this curriculum to teach the next batch of programmers. I also plan to refine the curriculum as the year progress in hopes that it can be passed on to the next generation of Team 624 programmers.&lt;/p&gt;</content><author><name>Daniel Yang</name></author><summary type="html">Introduction</summary></entry><entry><title type="html">Academic Decathelon State Results</title><link href="http://localhost:4000/2020/03/08/Acadec-State/" rel="alternate" type="text/html" title="Academic Decathelon State Results" /><published>2020-03-08T00:00:00-06:00</published><updated>2020-03-08T00:00:00-06:00</updated><id>http://localhost:4000/2020/03/08/Acadec-State</id><content type="html" xml:base="http://localhost:4000/2020/03/08/Acadec-State/">&lt;h1 id=&quot;state&quot;&gt;State&lt;/h1&gt;
-
-&lt;p&gt;Update time! This past weekend I competed in San Antonio with my Academic Decathelon team. At state, I once again placed in both math and speech. This time however, I score a perfect 1000 on math and was 2nd in speech, both improvments to my regional results. Additionally, we placed 6th overall in Super Quiz and were ranked 7th in the state for large schools. I’m really proud of both my team’s results and my own and can’t wait to see our improvements next year.&lt;/p&gt;</content><author><name>Daniel Yang</name></author><summary type="html">State</summary></entry><entry><title type="html">Academic Decathelon Regionals Results</title><link href="http://localhost:4000/2020/02/08/Acadec/" rel="alternate" type="text/html" title="Academic Decathelon Regionals Results" /><published>2020-02-08T00:00:00-06:00</published><updated>2020-02-08T00:00:00-06:00</updated><id>http://localhost:4000/2020/02/08/Acadec</id><content type="html" xml:base="http://localhost:4000/2020/02/08/Acadec/">&lt;h1 id=&quot;regionals&quot;&gt;Regionals&lt;/h1&gt;
-
-&lt;p&gt;This event was very exciting for me as it was my first offical competition with my school’s Academic Decathelon team. Our team performed very well, placing second in Super Quiz and 3rd overall. Individually, I also placed 2nd overall in math and 3rd overall in speech. Furthermore, I was my team’s highest individual score with a 8,524.1 out of 10,000. We have also qualified for state with is a couple of weeks.&lt;/p&gt;</content><author><name>Daniel Yang</name></author><summary type="html">Regionals</summary></entry><entry><title type="html">New Personal Website</title><link href="http://localhost:4000/2020/01/02/Website/" rel="alternate" type="text/html" title="New Personal Website" /><published>2020-01-02T00:00:00-06:00</published><updated>2020-01-02T00:00:00-06:00</updated><id>http://localhost:4000/2020/01/02/Website</id><content type="html" xml:base="http://localhost:4000/2020/01/02/Website/">&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
-
-&lt;p&gt;After putting my blog on a Weebly site for a while, I’ve decided to start transitioning over to a GitHub Pages and try and get everything onto GitHub. Over the next few months, I’ll be adding in posts to try and make sure everything was covered.&lt;/p&gt;
-
-&lt;h1 id=&quot;skills&quot;&gt;Skills&lt;/h1&gt;
-
-&lt;p&gt;By switching over to a GitHub Pages, I’ve learned a lot about Ruby, Jekyll, and Git. I hadn’t used much Git prior to this and definitely need work on it but this is a good place to start.&lt;/p&gt;
-
-&lt;h1 id=&quot;git-project&quot;&gt;Git Project&lt;/h1&gt;
-
-&lt;p&gt;The Git Project can be found &lt;a href=&quot;https://github.com/DanielYanger/danielyanger.github.io&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h1 id=&quot;moving-forward&quot;&gt;Moving Forward&lt;/h1&gt;
-
-&lt;p&gt;I hope to continue to improve the website by adding in previous blog posts as well as updating it with new posts. I’ll continue development on it for at least the forseeable future.&lt;/p&gt;</content><author><name>Daniel Yang</name></author><summary type="html">Introduction</summary></entry><entry><title type="html">USACO December 2019</title><link href="http://localhost:4000/2019/12/14/USACO-Programming/" rel="alternate" type="text/html" title="USACO December 2019" /><published>2019-12-14T00:00:00-06:00</published><updated>2019-12-14T00:00:00-06:00</updated><id>http://localhost:4000/2019/12/14/USACO-Programming</id><content type="html" xml:base="http://localhost:4000/2019/12/14/USACO-Programming/">&lt;h1 id=&quot;bronze&quot;&gt;Bronze&lt;/h1&gt;
+&lt;p&gt;Since next year will be my senior year, I plan to utilize this curriculum to teach the next batch of programmers. I also plan to refine the curriculum as the year progress in hopes that it can be passed on to the next generation of Team 624 programmers.&lt;/p&gt;</content><author><name>Daniel Yang</name></author><summary type="html">Introduction</summary></entry><entry><title type="html">USACO December 2019</title><link href="http://localhost:4000/2019/12/14/USACO-Programming/" rel="alternate" type="text/html" title="USACO December 2019" /><published>2019-12-14T00:00:00-06:00</published><updated>2019-12-14T00:00:00-06:00</updated><id>http://localhost:4000/2019/12/14/USACO-Programming</id><content type="html" xml:base="http://localhost:4000/2019/12/14/USACO-Programming/">&lt;h1 id=&quot;bronze&quot;&gt;Bronze&lt;/h1&gt;
 
 &lt;p&gt;Today was my first attempt at USACO. Prior to this, I had very little exposure to competative programming. I relied mainly on my Java knowledge from AP Computer Science A to get me through. Since it was my first time, I was in the bronze division. I scored a 1000 on my first attempt, giving me a promotion into Silver.&lt;/p&gt;
 
@@ -90,4 +62,48 @@
 
 &lt;h1 id=&quot;moving-forward&quot;&gt;Moving Forward&lt;/h1&gt;
 
-&lt;p&gt;This is the end of this project as the 2019 FRC season comes to a close. Next year will be my junior year and I will be taking on even more responsiblities in regards to programming. The current lead programmer is graduating so I will be stepping up in the amount I am programming. Can’t wait for next year!&lt;/p&gt;</content><author><name>Daniel Yang</name></author><summary type="html">Introduction</summary></entry></feed>
+&lt;p&gt;This is the end of this project as the 2019 FRC season comes to a close. Next year will be my junior year and I will be taking on even more responsiblities in regards to programming. The current lead programmer is graduating so I will be stepping up in the amount I am programming. Can’t wait for next year!&lt;/p&gt;</content><author><name>Daniel Yang</name></author><summary type="html">Introduction</summary></entry><entry><title type="html">Scouting Whitepaper</title><link href="http://localhost:4000/2019/02/25/Scouting-App/" rel="alternate" type="text/html" title="Scouting Whitepaper" /><published>2019-02-25T00:00:00-06:00</published><updated>2019-02-25T00:00:00-06:00</updated><id>http://localhost:4000/2019/02/25/Scouting-App</id><content type="html" xml:base="http://localhost:4000/2019/02/25/Scouting-App/">&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
+
+&lt;p&gt;While this is not completely programming related, this was my first ever white paper. Our team has long relies on using either paper and pencil scouting or using personal devices to scout. However, with this white paper I was able to convince the board to invest $2000 into new equipment to help our team scout.&lt;/p&gt;
+
+&lt;h1 id=&quot;skills&quot;&gt;Skills&lt;/h1&gt;
+
+&lt;p&gt;Through writing and editing this white paper, I improved my persuasive writing techniques. It also allowed me to better understand project constraints as I had to envision and work within a defined budget to achieve our goals.&lt;/p&gt;
+
+&lt;h1 id=&quot;white-paper&quot;&gt;White Paper&lt;/h1&gt;
+
+&lt;p&gt;The white paper can be found &lt;a href=&quot;https://docs.google.com/document/d/1Q4UFuG-9-dFI42fBowHwvH9mJ2_imZaYjWjXiaBfhoo/edit?usp=sharing&quot;&gt;here&lt;/a&gt;. This was the same version that was submitted to the board and approved.&lt;/p&gt;
+
+&lt;h1 id=&quot;moving-forward&quot;&gt;Moving Forward&lt;/h1&gt;
+
+&lt;p&gt;With the approval of my proposal, we are moving forward with the current deployment of our new equipment. We have been developing an app that will be optimized for the tablets and allow us to utilize our new resources.&lt;/p&gt;</content><author><name>Daniel Yang</name></author><summary type="html">Introduction</summary></entry><entry><title type="html">Eagle Scout Update</title><link href="http://localhost:4000/2019/02/19/Eagle-Scout-Update/" rel="alternate" type="text/html" title="Eagle Scout Update" /><published>2019-02-19T00:00:00-06:00</published><updated>2019-02-19T00:00:00-06:00</updated><id>http://localhost:4000/2019/02/19/Eagle-Scout-Update</id><content type="html" xml:base="http://localhost:4000/2019/02/19/Eagle-Scout-Update/">&lt;h1 id=&quot;update&quot;&gt;Update&lt;/h1&gt;
+
+&lt;p&gt;Even though this is not related to programming, I thought that it was important nonetheless. Today I completed my Eagle Scout Board of Review and offically became an Eagle Scout. After four and a half years of hard work, dozens of nights spent camping, and countless miles hiked, I have finally reached the top.&lt;/p&gt;</content><author><name>Daniel Yang</name></author><summary type="html">Update</summary></entry><entry><title type="html">Scouting Whitepaper</title><link href="http://localhost:4000/2018/12/07/Scouting-WP/" rel="alternate" type="text/html" title="Scouting Whitepaper" /><published>2018-12-07T00:00:00-06:00</published><updated>2018-12-07T00:00:00-06:00</updated><id>http://localhost:4000/2018/12/07/Scouting-WP</id><content type="html" xml:base="http://localhost:4000/2018/12/07/Scouting-WP/">&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
+
+&lt;p&gt;While this is not completely programming related, this was my first ever white paper. Our team has long relies on using either paper and pencil scouting or using personal devices to scout. However, with this white paper I was able to convince the board to invest $2000 into new equipment to help our team scout.&lt;/p&gt;
+
+&lt;h1 id=&quot;skills&quot;&gt;Skills&lt;/h1&gt;
+
+&lt;p&gt;Through writing and editing this white paper, I improved my persuasive writing techniques. It also allowed me to better understand project constraints as I had to envision and work within a defined budget to achieve our goals.&lt;/p&gt;
+
+&lt;h1 id=&quot;white-paper&quot;&gt;White Paper&lt;/h1&gt;
+
+&lt;p&gt;The white paper can be found &lt;a href=&quot;https://docs.google.com/document/d/1Q4UFuG-9-dFI42fBowHwvH9mJ2_imZaYjWjXiaBfhoo/edit?usp=sharing&quot;&gt;here&lt;/a&gt;. This was the same version that was submitted to the board and approved.&lt;/p&gt;
+
+&lt;h1 id=&quot;moving-forward&quot;&gt;Moving Forward&lt;/h1&gt;
+
+&lt;p&gt;With the approval of my proposal, we are moving forward with the current deployment of our new equipment. We have been developing an app that will be optimized for the tablets and allow us to utilize our new resources.&lt;/p&gt;</content><author><name>Daniel Yang</name></author><summary type="html">Introduction</summary></entry><entry><title type="html">Team Blog</title><link href="http://localhost:4000/2018/09/08/Team-Blog/" rel="alternate" type="text/html" title="Team Blog" /><published>2018-09-08T00:00:00-05:00</published><updated>2018-09-08T00:00:00-05:00</updated><id>http://localhost:4000/2018/09/08/Team-Blog</id><content type="html" xml:base="http://localhost:4000/2018/09/08/Team-Blog/">&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
+
+&lt;p&gt;Last year, our team started using a private blog to keep track of the hours our members put into the team. As a sophomore, I was put in charge of maintaining the site and dealing with any issues that students encountered.&lt;/p&gt;
+
+&lt;h1 id=&quot;skills&quot;&gt;Skills&lt;/h1&gt;
+
+&lt;p&gt;Through my role as the webmaster of the blog, I used a lot of SQL to reference data stored on the team server.&lt;/p&gt;
+
+&lt;h1 id=&quot;git-project&quot;&gt;Git Project&lt;/h1&gt;
+
+&lt;p&gt;Unfortunately, once again, the code to our blog is private and the site is password protected. I will attach some photos of the site below.&lt;/p&gt;
+
+&lt;h1 id=&quot;moving-forward&quot;&gt;Moving Forward&lt;/h1&gt;
+
+&lt;p&gt;Moving forward, the team plans to continue using the blog. As the webmaster of the blog, I plan to continue to improve the blog and add features that will aid the team.&lt;/p&gt;</content><author><name>Daniel Yang</name></author><summary type="html">Introduction</summary></entry></feed>
