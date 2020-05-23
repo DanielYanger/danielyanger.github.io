@@ -4,7 +4,7 @@
  <title>Daniel's Blog</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-05-22T20:39:38-05:00</updated>
+ <updated>2020-05-22T20:39:57-05:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Daniel Yang</name>
@@ -169,7 +169,7 @@
    <link href="http://localhost:4000/2019/07/11/AP-Stats/"/>
    <updated>2019-07-11T00:00:00-05:00</updated>
    <id>http://localhost:4000/2019/07/11/AP-Stats</id>
-   <content type="html">&lt;h1 id=&quot;ap&quot;&gt;AP&lt;/h1&gt;
+   <content type="html">&lt;h2 id=&quot;ap&quot;&gt;AP&lt;/h2&gt;
 
 &lt;p&gt;With my second year of AP scores in, I am proud that I earned a 5 on my AP Stats exam. Since this is my programming blog, I’ll only post AP scores that are related to programming (so math and computer science). Cheers to more 5s!&lt;/p&gt;
 </content>
