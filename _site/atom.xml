@@ -4,7 +4,7 @@
  <title>Daniel's Blog</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-05-22T20:44:15-05:00</updated>
+ <updated>2020-05-22T20:45:15-05:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Daniel Yang</name>
@@ -17,21 +17,21 @@
    <link href="http://localhost:4000/2020/05/16/Shirt-Trading/"/>
    <updated>2020-05-16T00:00:00-05:00</updated>
    <id>http://localhost:4000/2020/05/16/Shirt-Trading</id>
-   <content type="html">&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
+   <content type="html">&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
 
-&lt;p&gt;I got a bit bored after getting 2/3 of the way through my AP exams, so I decided to just look into some SQL stuff. I created this simple form that handles inputs for my shirt trading addicti, I mean hobby. It’s really basic right now and since it’s hosted on GitHub Pages doesn’t work, but I thought I should show it off anyways.&lt;/p&gt;
+&lt;p&gt;I got a bit bored after getting 2/3 of the way through my AP exams, so I decided to just look into some SQL stuff. I created this simple form that handles inputs for my shirt trading addiction, I mean hobby. It’s really basic right now and since it’s hosted on GitHub Pages doesn’t work, but I thought I should show it off anyways.&lt;/p&gt;
 
-&lt;h1 id=&quot;skills&quot;&gt;Skills&lt;/h1&gt;
+&lt;h2 id=&quot;skills&quot;&gt;Skills&lt;/h2&gt;
 
-&lt;p&gt;I learned a lot more about SQL, databases, and php, while brushing up on some basic HTML. I created my first personal SQL server (it’s on a sketchy site, I know but none of this is important or sensetive) and got it working locally.&lt;/p&gt;
+&lt;p&gt;I learned a lot more about SQL, databases, and php, while brushing up on some basic HTML. I created my first personal SQL server (it’s on a sketchy site, I know but none of this is important or sensitive) and got it working locally.&lt;/p&gt;
 
-&lt;h1 id=&quot;repository&quot;&gt;Repository&lt;/h1&gt;
+&lt;h2 id=&quot;repository&quot;&gt;Repository&lt;/h2&gt;
 
 &lt;p&gt;The repository can be found &lt;a href=&quot;https://github.com/DanielYanger/shirtTrading&quot;&gt;here&lt;/a&gt;, while the live site (that doesn’t work) can be found &lt;a href=&quot;https://danielyanger.github.io/shirtTrading/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
-&lt;h1 id=&quot;moving-forward&quot;&gt;Moving Forward&lt;/h1&gt;
+&lt;h2 id=&quot;moving-forward&quot;&gt;Moving Forward&lt;/h2&gt;
 
-&lt;p&gt;This was a quick project that looks pretty bad. I plan to freshen it up a bit with CSS and add more features to make it more of a website. I plan to add a page where you can view my inventory (need to figure a way to do that on GitHub Pages or move to another free platform) and submit a trade request. Since it’s AP week, I don’t know when I’ll get back to it but we will see.&lt;/p&gt;
+&lt;p&gt;This was a quick project that looks pretty bad. I plan to freshen it up a bit with CSS and add more features to make it more of a website. I plan to add a page where you can view my inventory (need to figure a way to do that on GitHub Pages or move to another free platform) and submit a trade request. Since it is AP week, I don’t know when I’ll get back to it but we will see.&lt;/p&gt;
 
 </content>
  </entry>
