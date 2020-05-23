@@ -4,7 +4,7 @@
  <title>Daniel's Blog</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-05-22T20:34:39-05:00</updated>
+ <updated>2020-05-22T20:35:38-05:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Daniel Yang</name>
@@ -306,25 +306,25 @@
    <link href="http://localhost:4000/2018/06/02/Website/"/>
    <updated>2018-06-02T00:00:00-05:00</updated>
    <id>http://localhost:4000/2018/06/02/Website</id>
-   <content type="html">&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
+   <content type="html">&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
 
 &lt;p&gt;This is project was my second major project involving website development, the first being the scouting website. This was our main site that was visible to the public.&lt;/p&gt;
 
-&lt;h1 id=&quot;skills&quot;&gt;Skills&lt;/h1&gt;
+&lt;h2 id=&quot;skills&quot;&gt;Skills&lt;/h2&gt;
 
-&lt;p&gt;This was my first website project that involved images and more website CSS elements. I learned about website design as well as fine tuned my skills in HTML and CSS. Furthermore, I was exposed to PHP for the first time as that was the language the website was built upon at the time and how to communicate with the SQL server. I also learned about PuTTY and how to SSH into the website to push changes.&lt;/p&gt;
+&lt;p&gt;This was my first website project that involved images and more website CSS elements. I learned about website design as well as fine-tuned my skills in HTML and CSS. Furthermore, I was exposed to PHP for the first time as that was the language the website was built upon at the time and how to communicate with the SQL server. I also learned about PuTTY and how to SSH into the website to push changes.&lt;/p&gt;
 
-&lt;h1 id=&quot;git-project&quot;&gt;Git Project&lt;/h1&gt;
+&lt;h2 id=&quot;git-project&quot;&gt;Git Project&lt;/h2&gt;
 
-&lt;p&gt;Unfortunately, the code to our main website is not avalible to the public. However, you can view the work at &lt;a href=&quot;http://team624.org/&quot;&gt;team624.org&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Unfortunately, the code to our main website is not available to the public. However, you can view the work at &lt;a href=&quot;http://team624.org/&quot;&gt;team624.org&lt;/a&gt;.&lt;/p&gt;
 
-&lt;h1 id=&quot;moving-forward&quot;&gt;Moving Forward&lt;/h1&gt;
+&lt;h2 id=&quot;moving-forward&quot;&gt;Moving Forward&lt;/h2&gt;
 
 &lt;p&gt;This is just the start to my work on the site. Over the next 3 years, I will continue to maintain the site and update it as need be.&lt;/p&gt;
 
-&lt;h1 id=&quot;update-september-2019&quot;&gt;Update September 2019&lt;/h1&gt;
+&lt;h2 id=&quot;update-september-2019&quot;&gt;Update September 2019&lt;/h2&gt;
 
-&lt;p&gt;After much deliberation, the team has elected to move our website to Wordpress. &lt;a href=&quot;http://team624.org/&quot;&gt;Team624.org&lt;/a&gt; will no longer be maintained. The new site can be found at &lt;a href=&quot;http://frc624.org/&quot;&gt;frc624.org&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;After much deliberation, the team has elected to move our website to WordPress. &lt;a href=&quot;http://team624.org/&quot;&gt;Team624.org&lt;/a&gt; will no longer be maintained. The new site can be found at &lt;a href=&quot;http://frc624.org/&quot;&gt;frc624.org&lt;/a&gt;.&lt;/p&gt;
 
 </content>
  </entry>
