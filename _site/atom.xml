@@ -4,7 +4,7 @@
  <title>Daniel's Blog</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-05-22T20:40:33-05:00</updated>
+ <updated>2020-05-22T20:41:33-05:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Daniel Yang</name>
@@ -126,30 +126,6 @@
  </entry>
  
  <entry>
-   <title>New Personal Website</title>
-   <link href="http://localhost:4000/2020/01/02/Website/"/>
-   <updated>2020-01-02T00:00:00-06:00</updated>
-   <id>http://localhost:4000/2020/01/02/Website</id>
-   <content type="html">&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
-
-&lt;p&gt;After putting my blog on a Weebly site for a while, I’ve decided to start transitioning over to a GitHub Pages and try and get everything onto GitHub. Over the next few months, I’ll be adding in posts to try and make sure everything was covered.&lt;/p&gt;
-
-&lt;h1 id=&quot;skills&quot;&gt;Skills&lt;/h1&gt;
-
-&lt;p&gt;By switching over to a GitHub Pages, I’ve learned a lot about Ruby, Jekyll, and Git. I hadn’t used much Git prior to this and definitely need work on it but this is a good place to start.&lt;/p&gt;
-
-&lt;h1 id=&quot;git-project&quot;&gt;Git Project&lt;/h1&gt;
-
-&lt;p&gt;The Git Project can be found &lt;a href=&quot;https://github.com/DanielYanger/danielyanger.github.io&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h1 id=&quot;moving-forward&quot;&gt;Moving Forward&lt;/h1&gt;
-
-&lt;p&gt;I hope to continue to improve the website by adding in previous blog posts as well as updating it with new posts. I’ll continue development on it for at least the forseeable future.&lt;/p&gt;
-
-</content>
- </entry>
- 
- <entry>
    <title>USACO December 2019</title>
    <link href="http://localhost:4000/2019/12/14/USACO-Programming/"/>
    <updated>2019-12-14T00:00:00-06:00</updated>
@@ -161,6 +137,30 @@
 &lt;h2 id=&quot;moving-forward&quot;&gt;Moving Forward&lt;/h2&gt;
 
 &lt;p&gt;I plan to continue to participate in USACO. Due to the robotics season starting up very shortly, I will have little time to practice and prepare for Silver. However, I will try my best throughout all of the competitions.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>New Personal Website</title>
+   <link href="http://localhost:4000/2019/08/25/Website/"/>
+   <updated>2019-08-25T00:00:00-05:00</updated>
+   <id>http://localhost:4000/2019/08/25/Website</id>
+   <content type="html">&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
+
+&lt;p&gt;After putting my blog on a Weebly site for a while, I’ve decided to start transitioning over to a GitHub Pages and try and get everything onto GitHub. Over the next few months, I’ll be adding in posts to try and make sure everything was covered.&lt;/p&gt;
+
+&lt;h2 id=&quot;skills&quot;&gt;Skills&lt;/h2&gt;
+
+&lt;p&gt;By switching over to a GitHub Pages, I’ve learned a lot about Ruby, Jekyll, and Git. I hadn’t used much Git prior to this and definitely need work on it but this is a good place to start.&lt;/p&gt;
+
+&lt;h2 id=&quot;git-project&quot;&gt;Git Project&lt;/h2&gt;
+
+&lt;p&gt;The Git Project can be found &lt;a href=&quot;https://github.com/DanielYanger/danielyanger.github.io&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;moving-forward&quot;&gt;Moving Forward&lt;/h2&gt;
+
+&lt;p&gt;I hope to continue to improve the website by adding in previous blog posts as well as updating it with new posts. I’ll continue development on it for at least the foreseeable future.&lt;/p&gt;
+
 </content>
  </entry>
  
