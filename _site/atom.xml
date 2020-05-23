@@ -4,7 +4,7 @@
  <title>Daniel's Blog</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-05-22T20:39:57-05:00</updated>
+ <updated>2020-05-22T20:40:33-05:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Daniel Yang</name>
@@ -154,11 +154,11 @@
    <link href="http://localhost:4000/2019/12/14/USACO-Programming/"/>
    <updated>2019-12-14T00:00:00-06:00</updated>
    <id>http://localhost:4000/2019/12/14/USACO-Programming</id>
-   <content type="html">&lt;h1 id=&quot;bronze&quot;&gt;Bronze&lt;/h1&gt;
+   <content type="html">&lt;h2 id=&quot;bronze&quot;&gt;Bronze&lt;/h2&gt;
 
-&lt;p&gt;Today was my first attempt at USACO. Prior to this, I had very little exposure to competative programming. I relied mainly on my Java knowledge from AP Computer Science A to get me through. Since it was my first time, I was in the bronze division. I scored a 1000 on my first attempt, giving me a promotion into Silver.&lt;/p&gt;
+&lt;p&gt;Today was my first attempt at USACO. Prior to this, I had very little exposure to competitive programming. I relied mainly on my Java knowledge from AP Computer Science A to get me through. Since it was my first time, I was in the bronze division. I scored a 1000 on my first attempt, giving me a promotion into Silver.&lt;/p&gt;
 
-&lt;h1 id=&quot;moving-forward&quot;&gt;Moving Forward&lt;/h1&gt;
+&lt;h2 id=&quot;moving-forward&quot;&gt;Moving Forward&lt;/h2&gt;
 
 &lt;p&gt;I plan to continue to participate in USACO. Due to the robotics season starting up very shortly, I will have little time to practice and prepare for Silver. However, I will try my best throughout all of the competitions.&lt;/p&gt;
 </content>
