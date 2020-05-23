@@ -3,6 +3,6 @@ layout: "post"
 title: "Eagle Scout Update"
 ---
 
-# Update
+## Update
 
-Even though this is not related to programming, I thought that it was important nonetheless. Today I completed my Eagle Scout Board of Review and offically became an Eagle Scout. After four and a half years of hard work, dozens of nights spent camping, and countless miles hiked, I have finally reached the top.
+Even though this is not related to programming, I thought that it was important nonetheless. Today I completed my Eagle Scout Board of Review and officially became an Eagle Scout. After four and a half years of hard work, dozens of nights spent camping, and countless miles hiked, I have finally reached the top.

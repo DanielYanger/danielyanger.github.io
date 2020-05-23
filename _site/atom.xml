@@ -4,7 +4,7 @@
  <title>Daniel's Blog</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-05-22T20:38:31-05:00</updated>
+ <updated>2020-05-22T20:38:56-05:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Daniel Yang</name>
@@ -203,9 +203,9 @@
    <link href="http://localhost:4000/2019/02/19/Eagle-Scout-Update/"/>
    <updated>2019-02-19T00:00:00-06:00</updated>
    <id>http://localhost:4000/2019/02/19/Eagle-Scout-Update</id>
-   <content type="html">&lt;h1 id=&quot;update&quot;&gt;Update&lt;/h1&gt;
+   <content type="html">&lt;h2 id=&quot;update&quot;&gt;Update&lt;/h2&gt;
 
-&lt;p&gt;Even though this is not related to programming, I thought that it was important nonetheless. Today I completed my Eagle Scout Board of Review and offically became an Eagle Scout. After four and a half years of hard work, dozens of nights spent camping, and countless miles hiked, I have finally reached the top.&lt;/p&gt;
+&lt;p&gt;Even though this is not related to programming, I thought that it was important nonetheless. Today I completed my Eagle Scout Board of Review and officially became an Eagle Scout. After four and a half years of hard work, dozens of nights spent camping, and countless miles hiked, I have finally reached the top.&lt;/p&gt;
 </content>
  </entry>
  
