@@ -4,7 +4,7 @@
  <title>Daniel's Blog</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-05-22T20:43:12-05:00</updated>
+ <updated>2020-05-22T20:43:50-05:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Daniel Yang</name>
@@ -60,21 +60,21 @@
    <link href="http://localhost:4000/2020/03/27/Learning-React/"/>
    <updated>2020-03-27T00:00:00-05:00</updated>
    <id>http://localhost:4000/2020/03/27/Learning-React</id>
-   <content type="html">&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
+   <content type="html">&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
 
-&lt;p&gt;With more time on my hands due to the COVID-19 outbreak, I took the oppurtunity to learn more about programming. One of the first things I learned about was React. I followed a simple YouTube tutorial that guided me through setting up and using React.&lt;/p&gt;
+&lt;p&gt;With more time on my hands due to the COVID-19 outbreak, I took the opportunity to learn more about programming. One of the first things I learned about was React. I followed a simple YouTube tutorial that guided me through setting up and using React.&lt;/p&gt;
 
-&lt;h1 id=&quot;skills&quot;&gt;Skills&lt;/h1&gt;
+&lt;h2 id=&quot;skills&quot;&gt;Skills&lt;/h2&gt;
 
 &lt;p&gt;This was my first project that used React and I learned a lot about how it works. Making the simple counters using React was very different compared to JavaScript, which I have done in the past. While it was definitely more complicated to due this simple task, the applications for it are numerous.&lt;/p&gt;
 
-&lt;h1 id=&quot;git-project&quot;&gt;Git Project&lt;/h1&gt;
+&lt;h2 id=&quot;git-project&quot;&gt;Git Project&lt;/h2&gt;
 
 &lt;p&gt;The repository for the project is located &lt;a href=&quot;https://github.com/DanielYanger/Intro-to-React&quot;&gt;here&lt;/a&gt;. I didn’t create it as a repository and uploaded it afterwards so there isn’t a history to the project.&lt;/p&gt;
 
-&lt;h1 id=&quot;moving-forward&quot;&gt;Moving Forward&lt;/h1&gt;
+&lt;h2 id=&quot;moving-forward&quot;&gt;Moving Forward&lt;/h2&gt;
 
-&lt;p&gt;This is the end of this project as I don’t plan to do too much else with it. It was a fun first delve into React and a refresher about HTML, CSS, and web design. While I may not be using React for a while, it was definetly a great experience.&lt;/p&gt;
+&lt;p&gt;This is the end of this project as I don’t plan to do too much else with it. It was a fun first delve into React and a refresher about HTML, CSS, and web design. While I may not be using React for a while, it was definitely a great experience.&lt;/p&gt;
 
 </content>
  </entry>
