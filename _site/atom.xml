@@ -4,7 +4,7 @@
  <title>Daniel's Blog</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-05-22T20:42:30-05:00</updated>
+ <updated>2020-05-22T20:43:12-05:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Daniel Yang</name>
@@ -84,19 +84,19 @@
    <link href="http://localhost:4000/2020/03/25/Programming-Curriculum/"/>
    <updated>2020-03-25T00:00:00-05:00</updated>
    <id>http://localhost:4000/2020/03/25/Programming-Curriculum</id>
-   <content type="html">&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
+   <content type="html">&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
 
-&lt;p&gt;Following the cancellation of the 2020 FRC Season and the subsequent postponement of school, I deceided to take this oppurtunity to revamp our team’s programming curriculum. I created 9 different levels split into 3 categories: Basic, Intermediate, and Advanced. Each level is designed to teach incoming programers about LabVIEW and coding.&lt;/p&gt;
+&lt;p&gt;Following the cancellation of the 2020 FRC Season and the subsequent postponement of school, I decided to take this opportunity to revamp our team’s programming curriculum. I created 9 different levels split into 3 categories: Basic, Intermediate, and Advanced. Each level is designed to teach incoming programmers about LabVIEW and coding.&lt;/p&gt;
 
-&lt;h1 id=&quot;skills&quot;&gt;Skills&lt;/h1&gt;
+&lt;h2 id=&quot;skills&quot;&gt;Skills&lt;/h2&gt;
 
-&lt;p&gt;Through the development of this curriulum, I learned a lot about preparing teaching materials and lessons. Each level started with a lesson plan that had objectives, resources, and homework. Some of the lessons then required a presentation to be created while others did not.&lt;/p&gt;
+&lt;p&gt;Through the development of this curriculum, I learned a lot about preparing teaching materials and lessons. Each level started with a lesson plan that had objectives, resources, and homework. Some of the lessons then required a presentation to be created while others did not.&lt;/p&gt;
 
-&lt;h1 id=&quot;google-drive&quot;&gt;Google Drive&lt;/h1&gt;
+&lt;h2 id=&quot;google-drive&quot;&gt;Google Drive&lt;/h2&gt;
 
 &lt;p&gt;The link to the curriculum can be found &lt;a href=&quot;https://drive.google.com/open?id=12C09_11jrvME_3CtKL9LgwKkSNhXsidO&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
-&lt;h1 id=&quot;moving-forward&quot;&gt;Moving Forward&lt;/h1&gt;
+&lt;h2 id=&quot;moving-forward&quot;&gt;Moving Forward&lt;/h2&gt;
 
 &lt;p&gt;Since next year will be my senior year, I plan to utilize this curriculum to teach the next batch of programmers. I also plan to refine the curriculum as the year progress in hopes that it can be passed on to the next generation of Team 624 programmers.&lt;/p&gt;
 
