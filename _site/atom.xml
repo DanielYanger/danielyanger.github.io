@@ -4,7 +4,7 @@
  <title>Daniel's Blog</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-05-22T20:36:16-05:00</updated>
+ <updated>2020-05-22T20:36:55-05:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Daniel Yang</name>
@@ -276,15 +276,15 @@
    <link href="http://localhost:4000/2018/07/23/Eagle-Scout-Project/"/>
    <updated>2018-07-23T00:00:00-05:00</updated>
    <id>http://localhost:4000/2018/07/23/Eagle-Scout-Project</id>
-   <content type="html">&lt;h1 id=&quot;introducion&quot;&gt;Introducion&lt;/h1&gt;
+   <content type="html">&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
 
-&lt;p&gt;Today I completed my Eagle Scout Project. For my project, I partnered with SEWA International to deliever a STEM and Programming camp to underprivilidged children in the Greater Houston Area. I had many different stations for the children to experience, including making ice cream, bottle rockets, and intro to programming. The kids had a blast and loved the camp.&lt;/p&gt;
+&lt;p&gt;Today I completed my Eagle Scout Project. For my project, I partnered with SEWA International to deliver a STEM and Programming camp to underprivileged children in the Greater Houston Area. I had many different stations for the children to experience, including making ice cream, bottle rockets, and intro to programming. The kids had a blast and loved the camp.&lt;/p&gt;
 
-&lt;h1 id=&quot;documentation&quot;&gt;Documentation&lt;/h1&gt;
+&lt;h2 id=&quot;documentation&quot;&gt;Documentation&lt;/h2&gt;
 
 &lt;p&gt;While I have carefully documented everything, I am unable to publish it on the internet. Many of my documents contain personal information that cannot be published. However, if you are interested in it, feel free to send me an email and we can discuss potential ways for you to view them.&lt;/p&gt;
 
-&lt;h1 id=&quot;moving-forward&quot;&gt;Moving Forward&lt;/h1&gt;
+&lt;h2 id=&quot;moving-forward&quot;&gt;Moving Forward&lt;/h2&gt;
 
 &lt;p&gt;With my project now done, I have almost earned my Eagle Scout rank. Most of the work remaining is paperwork and meetings so I expect to earn it soon. In terms of the camp, I know many other scouts who are interesting in hosting a similar camp so I will be mentoring them and providing guidance to them.&lt;/p&gt;
 </content>
