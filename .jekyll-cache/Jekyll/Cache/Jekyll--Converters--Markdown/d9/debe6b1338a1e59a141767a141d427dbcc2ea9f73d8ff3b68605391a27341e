@@ -1,0 +1,17 @@
+I";<h1 id="introduction">Introduction</h1>
+
+<p>Now that I know the basics of Python, I decided to apply some of what I learned and create a quick game of Pong. This Pong game gradually speeds up as the game progresses, making it more and more challenging the longer the rally is.</p>
+
+<h1 id="skills">Skills</h1>
+
+<p>In addition to improving my basic Python knowledge, I learned about the Python library Turtles and random. Both of these were useful in creating the project.</p>
+
+<h1 id="git-project">Git Project</h1>
+
+<p>The project can be found <a href="https://github.com/DanielYanger/Python-Projects/blob/master/pong.py">here</a>.</p>
+
+<h1 id="moving-forward">Moving Forward</h1>
+
+<p>I plan to continue to create small Python projects to improve my python knowledge but with AP exams coming up, I may not have much time.</p>
+
+:ET
