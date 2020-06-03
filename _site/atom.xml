@@ -4,13 +4,36 @@
  <title>Daniel's Blog</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-05-23T22:22:00-05:00</updated>
+ <updated>2020-06-02T22:09:38-05:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Daniel Yang</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>New 624 Scouting App</title>
+   <link href="http://localhost:4000/2020/05/31/Scouting-App/"/>
+   <updated>2020-05-31T00:00:00-05:00</updated>
+   <id>http://localhost:4000/2020/05/31/Scouting-App</id>
+   <content type="html">&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
+
+&lt;p&gt;In the time between the end of AP exams and the start of summer school, I decided to create a new scouting app for my robotics team. Following the approval of my proposal for new tabelts, our team started using an app called Roblu for scouting. However, I wanted to build a system from the group up tailored for our team. One issue we had while using Roblue was regarding the use of Bluetooth to transmit data. While sometimes it worked, othertimes it would seem to lose data. This is a huge issue so I decided to instead have it export to local files and then use a python script to merge the data.&lt;/p&gt;
+
+&lt;h1 id=&quot;skills&quot;&gt;Skills&lt;/h1&gt;
+
+&lt;p&gt;This was my first time using Flutter so I learned a lot about both flutter and dart. I picked it up very quickly and in only 2 days, created a system where you can dynamically generate forms using the master app. This allows the system to be used by a head scout even if they have no programming experience. This is crucial to the success of the scouting team. Additionally, I plan to create a couple of python scripts and incorporate them with a C# Windows Form to create an all in one package for the team.&lt;/p&gt;
+
+&lt;h1 id=&quot;git-project&quot;&gt;Git Project&lt;/h1&gt;
+
+&lt;p&gt;The projects are currently not visible to the public but this status could change in the future.&lt;/p&gt;
+
+&lt;h1 id=&quot;moving-forward&quot;&gt;Moving Forward&lt;/h1&gt;
+
+&lt;p&gt;I plan to continue to refine the app and fix any bugs. Right now I plan to start creating the Python scripts to unite all the aspects of the two apps.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Shirt Trading Database</title>
