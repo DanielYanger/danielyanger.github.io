@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-06-02T22:09:38-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Daniel’s Blog</title><subtitle>Welcome to my programming blog! I have plenty of posts about my programming (and some non-programming) achievements.</subtitle><author><name>Daniel Yang</name></author><entry><title type="html">New 624 Scouting App</title><link href="http://localhost:4000/2020/05/31/Scouting-App/" rel="alternate" type="text/html" title="New 624 Scouting App" /><published>2020-05-31T00:00:00-05:00</published><updated>2020-05-31T00:00:00-05:00</updated><id>http://localhost:4000/2020/05/31/Scouting-App</id><content type="html" xml:base="http://localhost:4000/2020/05/31/Scouting-App/">&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-06-07T12:55:45-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Daniel’s Blog</title><subtitle>Welcome to my programming blog! I have plenty of posts about my programming (and some non-programming) achievements.</subtitle><author><name>Daniel Yang</name></author><entry><title type="html">New 624 Scouting App</title><link href="http://localhost:4000/2020/05/31/Scouting-App/" rel="alternate" type="text/html" title="New 624 Scouting App" /><published>2020-05-31T00:00:00-05:00</published><updated>2020-05-31T00:00:00-05:00</updated><id>http://localhost:4000/2020/05/31/Scouting-App</id><content type="html" xml:base="http://localhost:4000/2020/05/31/Scouting-App/">&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
 
 &lt;p&gt;In the time between the end of AP exams and the start of summer school, I decided to create a new scouting app for my robotics team. Following the approval of my proposal for new tabelts, our team started using an app called Roblu for scouting. However, I wanted to build a system from the group up tailored for our team. One issue we had while using Roblue was regarding the use of Bluetooth to transmit data. While sometimes it worked, othertimes it would seem to lose data. This is a huge issue so I decided to instead have it export to local files and then use a python script to merge the data.&lt;/p&gt;
 
@@ -26,7 +26,21 @@
 
 &lt;h2 id=&quot;moving-forward&quot;&gt;Moving Forward&lt;/h2&gt;
 
-&lt;p&gt;This was a quick project that looks pretty bad. I plan to freshen it up a bit with CSS and add more features to make it more of a website. I plan to add a page where you can view my inventory (need to figure a way to do that on GitHub Pages or move to another free platform) and submit a trade request. Since it is AP week, I don’t know when I’ll get back to it but we will see.&lt;/p&gt;</content><author><name>Daniel Yang</name></author><summary type="html">Introduction</summary></entry><entry><title type="html">Pong</title><link href="http://localhost:4000/2020/04/20/Pong/" rel="alternate" type="text/html" title="Pong" /><published>2020-04-20T00:00:00-05:00</published><updated>2020-04-20T00:00:00-05:00</updated><id>http://localhost:4000/2020/04/20/Pong</id><content type="html" xml:base="http://localhost:4000/2020/04/20/Pong/">&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;This was a quick project that looks pretty bad. I plan to freshen it up a bit with CSS and add more features to make it more of a website. I plan to add a page where you can view my inventory (need to figure a way to do that on GitHub Pages or move to another free platform) and submit a trade request. Since it is AP week, I don’t know when I’ll get back to it but we will see.&lt;/p&gt;</content><author><name>Daniel Yang</name></author><summary type="html">Introduction</summary></entry><entry><title type="html">New Website Theme</title><link href="http://localhost:4000/2020/04/30/Website-Theme/" rel="alternate" type="text/html" title="New Website Theme" /><published>2020-04-30T00:00:00-05:00</published><updated>2020-04-30T00:00:00-05:00</updated><id>http://localhost:4000/2020/04/30/Website-Theme</id><content type="html" xml:base="http://localhost:4000/2020/04/30/Website-Theme/">&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
+
+&lt;p&gt;After a bit of testing, I have finally implemented the Hyde theme for my personal blog.&lt;/p&gt;
+
+&lt;h1 id=&quot;skills&quot;&gt;Skills&lt;/h1&gt;
+
+&lt;p&gt;Through this adventure of figuring out the theme issues, I was able to learn more about many different things, including Liquid, Git, and Jekyll.&lt;/p&gt;
+
+&lt;h1 id=&quot;git-project&quot;&gt;Git Project&lt;/h1&gt;
+
+&lt;p&gt;The project can be found &lt;a href=&quot;https://github.com/DanielYanger/danielyanger.github.io&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&quot;moving-forward&quot;&gt;Moving Forward&lt;/h1&gt;
+
+&lt;p&gt;I like this theme so I’ll probably stick with it for a while. I might add a page where all of my posts are visible since I did like that from my previous theme.&lt;/p&gt;</content><author><name>Daniel Yang</name></author><summary type="html">Introduction</summary></entry><entry><title type="html">Pong</title><link href="http://localhost:4000/2020/04/20/Pong/" rel="alternate" type="text/html" title="Pong" /><published>2020-04-20T00:00:00-05:00</published><updated>2020-04-20T00:00:00-05:00</updated><id>http://localhost:4000/2020/04/20/Pong</id><content type="html" xml:base="http://localhost:4000/2020/04/20/Pong/">&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
 
 &lt;p&gt;Now that I know the basics of Python, I decided to apply some of what I learned and create a quick game of Pong. This Pong game gradually speeds up as the game progresses, making it more and more challenging the longer the rally is.&lt;/p&gt;
 
@@ -88,18 +102,4 @@
 
 &lt;h2 id=&quot;moving-forward&quot;&gt;Moving Forward&lt;/h2&gt;
 
-&lt;p&gt;I plan to continue to participate in USACO. Due to the robotics season starting up very shortly, I will have little time to practice and prepare for Silver. However, I will try my best throughout all of the competitions.&lt;/p&gt;</content><author><name>Daniel Yang</name></author><summary type="html">Bronze</summary></entry><entry><title type="html">New Personal Website</title><link href="http://localhost:4000/2019/08/25/Website/" rel="alternate" type="text/html" title="New Personal Website" /><published>2019-08-25T00:00:00-05:00</published><updated>2019-08-25T00:00:00-05:00</updated><id>http://localhost:4000/2019/08/25/Website</id><content type="html" xml:base="http://localhost:4000/2019/08/25/Website/">&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
-
-&lt;p&gt;After putting my blog on a Weebly site for a while, I’ve decided to start transitioning over to a GitHub Pages and try and get everything onto GitHub. Over the next few months, I’ll be adding in posts to try and make sure everything was covered.&lt;/p&gt;
-
-&lt;h2 id=&quot;skills&quot;&gt;Skills&lt;/h2&gt;
-
-&lt;p&gt;By switching over to a GitHub Pages, I’ve learned a lot about Ruby, Jekyll, and Git. I hadn’t used much Git prior to this and definitely need work on it but this is a good place to start.&lt;/p&gt;
-
-&lt;h2 id=&quot;git-project&quot;&gt;Git Project&lt;/h2&gt;
-
-&lt;p&gt;The Git Project can be found &lt;a href=&quot;https://github.com/DanielYanger/danielyanger.github.io&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;moving-forward&quot;&gt;Moving Forward&lt;/h2&gt;
-
-&lt;p&gt;I hope to continue to improve the website by adding in previous blog posts as well as updating it with new posts. I’ll continue development on it for at least the foreseeable future.&lt;/p&gt;</content><author><name>Daniel Yang</name></author><summary type="html">Introduction</summary></entry></feed>
+&lt;p&gt;I plan to continue to participate in USACO. Due to the robotics season starting up very shortly, I will have little time to practice and prepare for Silver. However, I will try my best throughout all of the competitions.&lt;/p&gt;</content><author><name>Daniel Yang</name></author><summary type="html">Bronze</summary></entry></feed>

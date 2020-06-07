@@ -4,7 +4,7 @@
  <title>Daniel's Blog</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-06-02T22:09:38-05:00</updated>
+ <updated>2020-06-07T12:55:45-05:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Daniel Yang</name>
@@ -55,6 +55,30 @@
 &lt;h2 id=&quot;moving-forward&quot;&gt;Moving Forward&lt;/h2&gt;
 
 &lt;p&gt;This was a quick project that looks pretty bad. I plan to freshen it up a bit with CSS and add more features to make it more of a website. I plan to add a page where you can view my inventory (need to figure a way to do that on GitHub Pages or move to another free platform) and submit a trade request. Since it is AP week, I don’t know when I’ll get back to it but we will see.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>New Website Theme</title>
+   <link href="http://localhost:4000/2020/04/30/Website-Theme/"/>
+   <updated>2020-04-30T00:00:00-05:00</updated>
+   <id>http://localhost:4000/2020/04/30/Website-Theme</id>
+   <content type="html">&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
+
+&lt;p&gt;After a bit of testing, I have finally implemented the Hyde theme for my personal blog.&lt;/p&gt;
+
+&lt;h1 id=&quot;skills&quot;&gt;Skills&lt;/h1&gt;
+
+&lt;p&gt;Through this adventure of figuring out the theme issues, I was able to learn more about many different things, including Liquid, Git, and Jekyll.&lt;/p&gt;
+
+&lt;h1 id=&quot;git-project&quot;&gt;Git Project&lt;/h1&gt;
+
+&lt;p&gt;The project can be found &lt;a href=&quot;https://github.com/DanielYanger/danielyanger.github.io&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&quot;moving-forward&quot;&gt;Moving Forward&lt;/h1&gt;
+
+&lt;p&gt;I like this theme so I’ll probably stick with it for a while. I might add a page where all of my posts are visible since I did like that from my previous theme.&lt;/p&gt;
 
 </content>
  </entry>
