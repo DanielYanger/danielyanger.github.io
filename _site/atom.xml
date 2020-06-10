@@ -4,13 +4,37 @@
  <title>Daniel's Blog</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-06-07T13:01:40-05:00</updated>
+ <updated>2020-06-10T16:14:36-05:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Daniel Yang</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>624 Scouting Manager</title>
+   <link href="http://localhost:4000/2020/06/04/Scouting-Manager/"/>
+   <updated>2020-06-04T00:00:00-05:00</updated>
+   <id>http://localhost:4000/2020/06/04/Scouting-Manager</id>
+   <content type="html">&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
+
+&lt;p&gt;As part of my overhaul of my team’s scouting system, I have made a Windows Form that will link the different apps and merge the files.&lt;/p&gt;
+
+&lt;h1 id=&quot;skills&quot;&gt;Skills&lt;/h1&gt;
+
+&lt;p&gt;Through this project, I dipped my toes into C# and made a Windows Form in Visual Studio. Additionally, I learned how to make API calls in python and how to properly parse through a JSON file in python.&lt;/p&gt;
+
+&lt;h1 id=&quot;git-project&quot;&gt;Git Project&lt;/h1&gt;
+
+&lt;p&gt;The project can be found &lt;a href=&quot;https://github.com/DanielYanger/624-Scouting-Manager&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&quot;moving-forward&quot;&gt;Moving Forward&lt;/h1&gt;
+
+&lt;p&gt;I plan to continue to work on the project and finish debugging it in preparation for next season.&lt;/p&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>New 624 Scouting App</title>
