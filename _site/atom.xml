@@ -4,7 +4,7 @@
  <title>Daniel's Blog</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-06-29T21:42:47-05:00</updated>
+ <updated>2020-06-29T21:48:07-05:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Daniel Yang</name>
@@ -79,6 +79,30 @@
 &lt;h1 id=&quot;moving-forward&quot;&gt;Moving Forward&lt;/h1&gt;
 
 &lt;p&gt;Now that I have learned Node, I plan to learn about MongoDB and take the next step to becoming a full stack developer!&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Python Data Visualization</title>
+   <link href="http://localhost:4000/2020/06/09/Sorting-Visulization/"/>
+   <updated>2020-06-09T00:00:00-05:00</updated>
+   <id>http://localhost:4000/2020/06/09/Sorting-Visulization</id>
+   <content type="html">&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
+
+&lt;p&gt;Taking a quick break from my development for robotics, I decided to do something I had been meaning to for a while: create a visuzlization for sorting. This had always fasciated me so I decided to finally give it a go using Python.&lt;/p&gt;
+
+&lt;h1 id=&quot;skills&quot;&gt;Skills&lt;/h1&gt;
+
+&lt;p&gt;This project introduced me to the Tkinter library as well as more features of the Matplotlib. Furthermore, I learned a great deal about the various sorting methods I implemented, including ones I just learned such as gnome, even-odd, and cocktail shaker.&lt;/p&gt;
+
+&lt;h1 id=&quot;git-project&quot;&gt;Git Project&lt;/h1&gt;
+
+&lt;p&gt;The project can be found &lt;a href=&quot;https://github.com/DanielYanger/Python-Projects/blob/master/visualiztionSorter.py&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&quot;moving-forward&quot;&gt;Moving Forward&lt;/h1&gt;
+
+&lt;p&gt;Even though I had some trouble getting started because I named a couple of files things I shouldn’t have, I really had a fun time making this. I definetly want to explore similar projects later this summer, including creating a visulization in React and potentially delve into pathfinding.&lt;/p&gt;
 
 </content>
  </entry>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-06-29T21:42:47-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Daniel’s Blog</title><subtitle>Welcome to my programming blog! I have plenty of posts about my programming (and some non-programming) achievements.</subtitle><author><name>Daniel Yang</name></author><entry><title type="html">Full Stack Developer</title><link href="http://localhost:4000/2020/06/28/Full-Stack/" rel="alternate" type="text/html" title="Full Stack Developer" /><published>2020-06-28T00:00:00-05:00</published><updated>2020-06-28T00:00:00-05:00</updated><id>http://localhost:4000/2020/06/28/Full-Stack</id><content type="html" xml:base="http://localhost:4000/2020/06/28/Full-Stack/">&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-06-29T21:48:07-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Daniel’s Blog</title><subtitle>Welcome to my programming blog! I have plenty of posts about my programming (and some non-programming) achievements.</subtitle><author><name>Daniel Yang</name></author><entry><title type="html">Full Stack Developer</title><link href="http://localhost:4000/2020/06/28/Full-Stack/" rel="alternate" type="text/html" title="Full Stack Developer" /><published>2020-06-28T00:00:00-05:00</published><updated>2020-06-28T00:00:00-05:00</updated><id>http://localhost:4000/2020/06/28/Full-Stack</id><content type="html" xml:base="http://localhost:4000/2020/06/28/Full-Stack/">&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
 
 &lt;p&gt;Now that I know MongoDB, Express, React, and NodeJS, I am officially a full stack developer. I still have a ways to go before I am a competent developer but this is the first step!&lt;/p&gt;
 
@@ -40,7 +40,21 @@
 
 &lt;h1 id=&quot;moving-forward&quot;&gt;Moving Forward&lt;/h1&gt;
 
-&lt;p&gt;Now that I have learned Node, I plan to learn about MongoDB and take the next step to becoming a full stack developer!&lt;/p&gt;</content><author><name>Daniel Yang</name></author><summary type="html">Introduction</summary></entry><entry><title type="html">624 Scouting Manager</title><link href="http://localhost:4000/2020/06/04/Scouting-Manager/" rel="alternate" type="text/html" title="624 Scouting Manager" /><published>2020-06-04T00:00:00-05:00</published><updated>2020-06-04T00:00:00-05:00</updated><id>http://localhost:4000/2020/06/04/Scouting-Manager</id><content type="html" xml:base="http://localhost:4000/2020/06/04/Scouting-Manager/">&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;Now that I have learned Node, I plan to learn about MongoDB and take the next step to becoming a full stack developer!&lt;/p&gt;</content><author><name>Daniel Yang</name></author><summary type="html">Introduction</summary></entry><entry><title type="html">Python Data Visualization</title><link href="http://localhost:4000/2020/06/09/Sorting-Visulization/" rel="alternate" type="text/html" title="Python Data Visualization" /><published>2020-06-09T00:00:00-05:00</published><updated>2020-06-09T00:00:00-05:00</updated><id>http://localhost:4000/2020/06/09/Sorting-Visulization</id><content type="html" xml:base="http://localhost:4000/2020/06/09/Sorting-Visulization/">&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
+
+&lt;p&gt;Taking a quick break from my development for robotics, I decided to do something I had been meaning to for a while: create a visuzlization for sorting. This had always fasciated me so I decided to finally give it a go using Python.&lt;/p&gt;
+
+&lt;h1 id=&quot;skills&quot;&gt;Skills&lt;/h1&gt;
+
+&lt;p&gt;This project introduced me to the Tkinter library as well as more features of the Matplotlib. Furthermore, I learned a great deal about the various sorting methods I implemented, including ones I just learned such as gnome, even-odd, and cocktail shaker.&lt;/p&gt;
+
+&lt;h1 id=&quot;git-project&quot;&gt;Git Project&lt;/h1&gt;
+
+&lt;p&gt;The project can be found &lt;a href=&quot;https://github.com/DanielYanger/Python-Projects/blob/master/visualiztionSorter.py&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&quot;moving-forward&quot;&gt;Moving Forward&lt;/h1&gt;
+
+&lt;p&gt;Even though I had some trouble getting started because I named a couple of files things I shouldn’t have, I really had a fun time making this. I definetly want to explore similar projects later this summer, including creating a visulization in React and potentially delve into pathfinding.&lt;/p&gt;</content><author><name>Daniel Yang</name></author><summary type="html">Introduction</summary></entry><entry><title type="html">624 Scouting Manager</title><link href="http://localhost:4000/2020/06/04/Scouting-Manager/" rel="alternate" type="text/html" title="624 Scouting Manager" /><published>2020-06-04T00:00:00-05:00</published><updated>2020-06-04T00:00:00-05:00</updated><id>http://localhost:4000/2020/06/04/Scouting-Manager</id><content type="html" xml:base="http://localhost:4000/2020/06/04/Scouting-Manager/">&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
 
 &lt;p&gt;As part of my overhaul of my team’s scouting system, I have made a Windows Form that will link the different apps and merge the files.&lt;/p&gt;
 
@@ -128,14 +142,4 @@
 
 &lt;h1 id=&quot;moving-forward&quot;&gt;Moving Forward&lt;/h1&gt;
 
-&lt;p&gt;I plan to continue to create small Python projects to improve my python knowledge but with AP exams coming up, I may not have much time.&lt;/p&gt;</content><author><name>Daniel Yang</name></author><summary type="html">Introduction</summary></entry><entry><title type="html">Learning Python</title><link href="http://localhost:4000/2020/04/15/Python/" rel="alternate" type="text/html" title="Learning Python" /><published>2020-04-15T00:00:00-05:00</published><updated>2020-04-15T00:00:00-05:00</updated><id>http://localhost:4000/2020/04/15/Python</id><content type="html" xml:base="http://localhost:4000/2020/04/15/Python/">&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
-
-&lt;p&gt;Over the course of the past few weeks, I’ve started to learn Python. I completed the Python 3 course on Code Academy as well as a couple of other courses related to Python.&lt;/p&gt;
-
-&lt;h2 id=&quot;skills&quot;&gt;Skills&lt;/h2&gt;
-
-&lt;p&gt;Given that I am already proficient in Java, Python was not difficult to grasp. The syntax took a bit of getting used to and brushing off some of my Java habits took a while.&lt;/p&gt;
-
-&lt;h2 id=&quot;moving-forward&quot;&gt;Moving Forward&lt;/h2&gt;
-
-&lt;p&gt;Now that I know Python, I can start looking into more projects. Even though many of the things I want to do could be done in Java, I want to continue to push myself and improve my Python skills.&lt;/p&gt;</content><author><name>Daniel Yang</name></author><summary type="html">Introduction</summary></entry></feed>
+&lt;p&gt;I plan to continue to create small Python projects to improve my python knowledge but with AP exams coming up, I may not have much time.&lt;/p&gt;</content><author><name>Daniel Yang</name></author><summary type="html">Introduction</summary></entry></feed>
