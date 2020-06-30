@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-06-29T21:32:00-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Daniel’s Blog</title><subtitle>Welcome to my programming blog! I have plenty of posts about my programming (and some non-programming) achievements.</subtitle><author><name>Daniel Yang</name></author><entry><title type="html">Full Stack Developer</title><link href="http://localhost:4000/2020/06/28/Full-Stack/" rel="alternate" type="text/html" title="Full Stack Developer" /><published>2020-06-28T00:00:00-05:00</published><updated>2020-06-28T00:00:00-05:00</updated><id>http://localhost:4000/2020/06/28/Full-Stack</id><content type="html" xml:base="http://localhost:4000/2020/06/28/Full-Stack/">&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-06-29T21:38:06-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Daniel’s Blog</title><subtitle>Welcome to my programming blog! I have plenty of posts about my programming (and some non-programming) achievements.</subtitle><author><name>Daniel Yang</name></author><entry><title type="html">Full Stack Developer</title><link href="http://localhost:4000/2020/06/28/Full-Stack/" rel="alternate" type="text/html" title="Full Stack Developer" /><published>2020-06-28T00:00:00-05:00</published><updated>2020-06-28T00:00:00-05:00</updated><id>http://localhost:4000/2020/06/28/Full-Stack</id><content type="html" xml:base="http://localhost:4000/2020/06/28/Full-Stack/">&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
 
 &lt;p&gt;Now that I know MongoDB, Express, React, and NodeJS, I am officially a full stack developer. I still have a ways to go before I am a competent developer but this is the first step!&lt;/p&gt;
 
@@ -12,13 +12,27 @@
 
 &lt;h1 id=&quot;moving-forward&quot;&gt;Moving Forward&lt;/h1&gt;
 
-&lt;p&gt;I’ll be starting a summer camp for computer science and algorithms in the next few days so development will take a backseat. However, I plan to get back to programming and learning new things as soon as possible.&lt;/p&gt;</content><author><name>Daniel Yang</name></author><summary type="html">Introduction</summary></entry><entry><title type="html">Learning Node</title><link href="http://localhost:4000/2020/06/15/Node-JS/" rel="alternate" type="text/html" title="Learning Node" /><published>2020-06-15T00:00:00-05:00</published><updated>2020-06-15T00:00:00-05:00</updated><id>http://localhost:4000/2020/06/15/Node-JS</id><content type="html" xml:base="http://localhost:4000/2020/06/15/Node-JS/">&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;I’ll be starting a summer camp for computer science and algorithms in the next few days so development will take a backseat. However, I plan to get back to programming and learning new things as soon as possible.&lt;/p&gt;</content><author><name>Daniel Yang</name></author><summary type="html">Introduction</summary></entry><entry><title type="html">MongoDB</title><link href="http://localhost:4000/2020/06/20/Mongo/" rel="alternate" type="text/html" title="MongoDB" /><published>2020-06-20T00:00:00-05:00</published><updated>2020-06-20T00:00:00-05:00</updated><id>http://localhost:4000/2020/06/20/Mongo</id><content type="html" xml:base="http://localhost:4000/2020/06/20/Mongo/">&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
 
-&lt;p&gt;With summer in full swing and a realitivly light course load for summer school, I took this oppurtunity to start learning Node.&lt;/p&gt;
+&lt;p&gt;After learning Node and Express, I wanted to continue my journey to becoming a full stack developer. With that, I decided to learn about implementing MongoDB into my Express apps.&lt;/p&gt;
 
 &lt;h1 id=&quot;skills&quot;&gt;Skills&lt;/h1&gt;
 
-&lt;p&gt;With this project, I learned a great deal about Node JS, APIs, and Express JS. Furthermore, it was a refresher in JavaScript for me after not using it for a long time.&lt;/p&gt;
+&lt;p&gt;With this project, I learned a great deal about NoSQL and how MongoDB stores data. Furthermore, I learned how to make API calls and process the data using mongoose and Express.&lt;/p&gt;
+
+&lt;h1 id=&quot;git-project&quot;&gt;Git Project&lt;/h1&gt;
+
+&lt;p&gt;I have a lot of sensitive information on the Git project that I forgot to hide before pushing so I will not be sharing the project.&lt;/p&gt;
+
+&lt;h1 id=&quot;moving-forward&quot;&gt;Moving Forward&lt;/h1&gt;
+
+&lt;p&gt;Now that I have learned how to use MongoDB, I plan to freshen up a bit on React and then become a full stack developer! Stay tuned for that.&lt;/p&gt;</content><author><name>Daniel Yang</name></author><summary type="html">Introduction</summary></entry><entry><title type="html">Learning Node</title><link href="http://localhost:4000/2020/06/15/Node-JS/" rel="alternate" type="text/html" title="Learning Node" /><published>2020-06-15T00:00:00-05:00</published><updated>2020-06-15T00:00:00-05:00</updated><id>http://localhost:4000/2020/06/15/Node-JS</id><content type="html" xml:base="http://localhost:4000/2020/06/15/Node-JS/">&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
+
+&lt;p&gt;With summer in full swing and a realitivly light course load for summer school, I took this oppurtunity to start my journey to becoming a full stack developer and specifically the MERN Stack. Since I had already touched on React, I decided to start with NodeJS and Express.&lt;/p&gt;
+
+&lt;h1 id=&quot;skills&quot;&gt;Skills&lt;/h1&gt;
+
+&lt;p&gt;With this project, I learned a great deal about Node JS and Express JS. Furthermore, it was a refresher in JavaScript for me after not using it for a long time.&lt;/p&gt;
 
 &lt;h1 id=&quot;git-project&quot;&gt;Git Project&lt;/h1&gt;
 
@@ -26,7 +40,7 @@
 
 &lt;h1 id=&quot;moving-forward&quot;&gt;Moving Forward&lt;/h1&gt;
 
-&lt;p&gt;Now that I have learned Node, I plan to freshen up a bit on React and then become a full stack developer! Stay tuned for that.&lt;/p&gt;</content><author><name>Daniel Yang</name></author><summary type="html">Introduction</summary></entry><entry><title type="html">624 Scouting Manager</title><link href="http://localhost:4000/2020/06/04/Scouting-Manager/" rel="alternate" type="text/html" title="624 Scouting Manager" /><published>2020-06-04T00:00:00-05:00</published><updated>2020-06-04T00:00:00-05:00</updated><id>http://localhost:4000/2020/06/04/Scouting-Manager</id><content type="html" xml:base="http://localhost:4000/2020/06/04/Scouting-Manager/">&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;Now that I have learned Node, I plan to learn about MongoDB and take the next step to becoming a full stack developer!&lt;/p&gt;</content><author><name>Daniel Yang</name></author><summary type="html">Introduction</summary></entry><entry><title type="html">624 Scouting Manager</title><link href="http://localhost:4000/2020/06/04/Scouting-Manager/" rel="alternate" type="text/html" title="624 Scouting Manager" /><published>2020-06-04T00:00:00-05:00</published><updated>2020-06-04T00:00:00-05:00</updated><id>http://localhost:4000/2020/06/04/Scouting-Manager</id><content type="html" xml:base="http://localhost:4000/2020/06/04/Scouting-Manager/">&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
 
 &lt;p&gt;As part of my overhaul of my team’s scouting system, I have made a Windows Form that will link the different apps and merge the files.&lt;/p&gt;
 
@@ -120,18 +134,4 @@
 
 &lt;h2 id=&quot;moving-forward&quot;&gt;Moving Forward&lt;/h2&gt;
 
-&lt;p&gt;Now that I know Python, I can start looking into more projects. Even though many of the things I want to do could be done in Java, I want to continue to push myself and improve my Python skills.&lt;/p&gt;</content><author><name>Daniel Yang</name></author><summary type="html">Introduction</summary></entry><entry><title type="html">Learning React</title><link href="http://localhost:4000/2020/03/27/Learning-React/" rel="alternate" type="text/html" title="Learning React" /><published>2020-03-27T00:00:00-05:00</published><updated>2020-03-27T00:00:00-05:00</updated><id>http://localhost:4000/2020/03/27/Learning-React</id><content type="html" xml:base="http://localhost:4000/2020/03/27/Learning-React/">&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
-
-&lt;p&gt;With more time on my hands due to the COVID-19 outbreak, I took the opportunity to learn more about programming. One of the first things I learned about was React. I followed a simple YouTube tutorial that guided me through setting up and using React.&lt;/p&gt;
-
-&lt;h2 id=&quot;skills&quot;&gt;Skills&lt;/h2&gt;
-
-&lt;p&gt;This was my first project that used React and I learned a lot about how it works. Making the simple counters using React was very different compared to JavaScript, which I have done in the past. While it was definitely more complicated to due this simple task, the applications for it are numerous.&lt;/p&gt;
-
-&lt;h2 id=&quot;git-project&quot;&gt;Git Project&lt;/h2&gt;
-
-&lt;p&gt;The repository for the project is located &lt;a href=&quot;https://github.com/DanielYanger/Intro-to-React&quot;&gt;here&lt;/a&gt;. I didn’t create it as a repository and uploaded it afterwards so there isn’t a history to the project.&lt;/p&gt;
-
-&lt;h2 id=&quot;moving-forward&quot;&gt;Moving Forward&lt;/h2&gt;
-
-&lt;p&gt;This is the end of this project as I don’t plan to do too much else with it. It was a fun first delve into React and a refresher about HTML, CSS, and web design. While I may not be using React for a while, it was definitely a great experience.&lt;/p&gt;</content><author><name>Daniel Yang</name></author><summary type="html">Introduction</summary></entry></feed>
+&lt;p&gt;Now that I know Python, I can start looking into more projects. Even though many of the things I want to do could be done in Java, I want to continue to push myself and improve my Python skills.&lt;/p&gt;</content><author><name>Daniel Yang</name></author><summary type="html">Introduction</summary></entry></feed>

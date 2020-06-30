@@ -4,7 +4,7 @@
  <title>Daniel's Blog</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-06-29T21:32:00-05:00</updated>
+ <updated>2020-06-29T21:38:06-05:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Daniel Yang</name>
@@ -36,17 +36,41 @@
  </entry>
  
  <entry>
+   <title>MongoDB</title>
+   <link href="http://localhost:4000/2020/06/20/Mongo/"/>
+   <updated>2020-06-20T00:00:00-05:00</updated>
+   <id>http://localhost:4000/2020/06/20/Mongo</id>
+   <content type="html">&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
+
+&lt;p&gt;After learning Node and Express, I wanted to continue my journey to becoming a full stack developer. With that, I decided to learn about implementing MongoDB into my Express apps.&lt;/p&gt;
+
+&lt;h1 id=&quot;skills&quot;&gt;Skills&lt;/h1&gt;
+
+&lt;p&gt;With this project, I learned a great deal about NoSQL and how MongoDB stores data. Furthermore, I learned how to make API calls and process the data using mongoose and Express.&lt;/p&gt;
+
+&lt;h1 id=&quot;git-project&quot;&gt;Git Project&lt;/h1&gt;
+
+&lt;p&gt;I have a lot of sensitive information on the Git project that I forgot to hide before pushing so I will not be sharing the project.&lt;/p&gt;
+
+&lt;h1 id=&quot;moving-forward&quot;&gt;Moving Forward&lt;/h1&gt;
+
+&lt;p&gt;Now that I have learned how to use MongoDB, I plan to freshen up a bit on React and then become a full stack developer! Stay tuned for that.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
    <title>Learning Node</title>
    <link href="http://localhost:4000/2020/06/15/Node-JS/"/>
    <updated>2020-06-15T00:00:00-05:00</updated>
    <id>http://localhost:4000/2020/06/15/Node-JS</id>
    <content type="html">&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
 
-&lt;p&gt;With summer in full swing and a realitivly light course load for summer school, I took this oppurtunity to start learning Node.&lt;/p&gt;
+&lt;p&gt;With summer in full swing and a realitivly light course load for summer school, I took this oppurtunity to start my journey to becoming a full stack developer and specifically the MERN Stack. Since I had already touched on React, I decided to start with NodeJS and Express.&lt;/p&gt;
 
 &lt;h1 id=&quot;skills&quot;&gt;Skills&lt;/h1&gt;
 
-&lt;p&gt;With this project, I learned a great deal about Node JS, APIs, and Express JS. Furthermore, it was a refresher in JavaScript for me after not using it for a long time.&lt;/p&gt;
+&lt;p&gt;With this project, I learned a great deal about Node JS and Express JS. Furthermore, it was a refresher in JavaScript for me after not using it for a long time.&lt;/p&gt;
 
 &lt;h1 id=&quot;git-project&quot;&gt;Git Project&lt;/h1&gt;
 
@@ -54,7 +78,7 @@
 
 &lt;h1 id=&quot;moving-forward&quot;&gt;Moving Forward&lt;/h1&gt;
 
-&lt;p&gt;Now that I have learned Node, I plan to freshen up a bit on React and then become a full stack developer! Stay tuned for that.&lt;/p&gt;
+&lt;p&gt;Now that I have learned Node, I plan to learn about MongoDB and take the next step to becoming a full stack developer!&lt;/p&gt;
 
 </content>
  </entry>
