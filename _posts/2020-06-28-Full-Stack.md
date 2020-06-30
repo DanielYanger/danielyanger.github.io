@@ -9,7 +9,7 @@ Now that I know MongoDB, Express, React, and NodeJS, I am officially a full stac
 
 # Skills
 
-With this project, I continued working on all of the various skills as part of the MERN Stack.
+With this project, I continued working on all of the various skills as part of the MERN Stack. This was especially a refresher on React and learned a lot about how Routers, Components, and Redux works. I defintely still have a long ways to go before becoming as comfortable as I would like to be but this has been a great start.
 
 # Git Project
 

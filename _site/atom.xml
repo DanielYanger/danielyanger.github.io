@@ -4,7 +4,7 @@
  <title>Daniel's Blog</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-06-29T21:38:06-05:00</updated>
+ <updated>2020-06-29T21:42:47-05:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Daniel Yang</name>
@@ -23,7 +23,7 @@
 
 &lt;h1 id=&quot;skills&quot;&gt;Skills&lt;/h1&gt;
 
-&lt;p&gt;With this project, I continued working on all of the various skills as part of the MERN Stack.&lt;/p&gt;
+&lt;p&gt;With this project, I continued working on all of the various skills as part of the MERN Stack. This was especially a refresher on React and learned a lot about how Routers, Components, and Redux works. I defintely still have a long ways to go before becoming as comfortable as I would like to be but this has been a great start.&lt;/p&gt;
 
 &lt;h1 id=&quot;git-project&quot;&gt;Git Project&lt;/h1&gt;
 
@@ -54,7 +54,7 @@
 
 &lt;h1 id=&quot;moving-forward&quot;&gt;Moving Forward&lt;/h1&gt;
 
-&lt;p&gt;Now that I have learned how to use MongoDB, I plan to freshen up a bit on React and then become a full stack developer! Stay tuned for that.&lt;/p&gt;
+&lt;p&gt;Now that I have learned how to use MongoDB, I plan to freshen up a bit on React and then become a full stack developer! Stay tuned for that. I also plan to explore other NoSQL options such as Firebase just to expand on my knowledge base.&lt;/p&gt;
 
 </content>
  </entry>
@@ -103,6 +103,10 @@
 &lt;h1 id=&quot;moving-forward&quot;&gt;Moving Forward&lt;/h1&gt;
 
 &lt;p&gt;I plan to continue to work on the project and finish debugging it in preparation for next season.&lt;/p&gt;
+
+&lt;h1 id=&quot;update&quot;&gt;Update&lt;/h1&gt;
+
+&lt;p&gt;I finished debugging the form and added a couple of new features! With that, I am just waiting on getting the team tablets to finalize testing.&lt;/p&gt;
 
 </content>
  </entry>

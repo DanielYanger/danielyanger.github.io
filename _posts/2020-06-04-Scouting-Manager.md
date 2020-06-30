@@ -19,4 +19,8 @@ The project can be found [here][gh-repo].
 
 I plan to continue to work on the project and finish debugging it in preparation for next season.
 
+# Update
+
+I finished debugging the form and added a couple of new features! With that, I am just waiting on getting the team tablets to finalize testing.
+
 [gh-repo]: https://github.com/DanielYanger/624-Scouting-Manager
