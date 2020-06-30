@@ -4,13 +4,36 @@
  <title>Daniel's Blog</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-06-29T21:24:35-05:00</updated>
+ <updated>2020-06-29T21:32:00-05:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Daniel Yang</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Full Stack Developer</title>
+   <link href="http://localhost:4000/2020/06/28/Full-Stack/"/>
+   <updated>2020-06-28T00:00:00-05:00</updated>
+   <id>http://localhost:4000/2020/06/28/Full-Stack</id>
+   <content type="html">&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
+
+&lt;p&gt;Now that I know MongoDB, Express, React, and NodeJS, I am officially a full stack developer. I still have a ways to go before I am a competent developer but this is the first step!&lt;/p&gt;
+
+&lt;h1 id=&quot;skills&quot;&gt;Skills&lt;/h1&gt;
+
+&lt;p&gt;With this project, I continued working on all of the various skills as part of the MERN Stack.&lt;/p&gt;
+
+&lt;h1 id=&quot;git-project&quot;&gt;Git Project&lt;/h1&gt;
+
+&lt;p&gt;I don’t plan on making the project public as it is mostly just code from many different tutorials coupled with my own code. Furthermore, I didn’t hide any sensative information (such as my MongoDB connection password) so I won’t make them public.&lt;/p&gt;
+
+&lt;h1 id=&quot;moving-forward&quot;&gt;Moving Forward&lt;/h1&gt;
+
+&lt;p&gt;I’ll be starting a summer camp for computer science and algorithms in the next few days so development will take a backseat. However, I plan to get back to programming and learning new things as soon as possible.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Learning Node</title>
