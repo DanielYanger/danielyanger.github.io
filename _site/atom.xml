@@ -4,13 +4,37 @@
  <title>Daniel's Blog</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-06-10T16:14:36-05:00</updated>
+ <updated>2020-06-29T21:24:35-05:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Daniel Yang</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Learning Node</title>
+   <link href="http://localhost:4000/2020/06/15/Node-JS/"/>
+   <updated>2020-06-15T00:00:00-05:00</updated>
+   <id>http://localhost:4000/2020/06/15/Node-JS</id>
+   <content type="html">&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
+
+&lt;p&gt;With summer in full swing and a realitivly light course load for summer school, I took this oppurtunity to start learning Node.&lt;/p&gt;
+
+&lt;h1 id=&quot;skills&quot;&gt;Skills&lt;/h1&gt;
+
+&lt;p&gt;With this project, I learned a great deal about Node JS, APIs, and Express JS. Furthermore, it was a refresher in JavaScript for me after not using it for a long time.&lt;/p&gt;
+
+&lt;h1 id=&quot;git-project&quot;&gt;Git Project&lt;/h1&gt;
+
+&lt;p&gt;The project can be found &lt;a href=&quot;https://github.com/DanielYanger/Learning-Node&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&quot;moving-forward&quot;&gt;Moving Forward&lt;/h1&gt;
+
+&lt;p&gt;Now that I have learned Node, I plan to freshen up a bit on React and then become a full stack developer! Stay tuned for that.&lt;/p&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>624 Scouting Manager</title>
