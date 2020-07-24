@@ -4,13 +4,33 @@
  <title>Daniel's Blog</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-06-30T11:44:23-05:00</updated>
+ <updated>2020-07-23T19:12:37-05:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Daniel Yang</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Team Blog Updates</title>
+   <link href="http://localhost:4000/2020/07/23/Team-Blog-Updates/"/>
+   <updated>2020-07-23T00:00:00-05:00</updated>
+   <id>http://localhost:4000/2020/07/23/Team-Blog-Updates</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>AP Scores</title>
+   <link href="http://localhost:4000/2020/07/15/AP-Scores/"/>
+   <updated>2020-07-15T00:00:00-05:00</updated>
+   <id>http://localhost:4000/2020/07/15/AP-Scores</id>
+   <content type="html">&lt;h2 id=&quot;ap&quot;&gt;AP&lt;/h2&gt;
+
+&lt;p&gt;This year, even with the strange testing conditions due to COVID-19, I still managed to complete my AP exams without any issues. I scored a 5 on AP Calculus BC, AP Physics 1, and AP Chemistry. I’m happy with my scores as I worked extremely hard preparing for the exams and I’m glad my hard work paid off.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Full Stack Developer</title>

@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-06-30T11:44:23-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Daniel’s Blog</title><subtitle>Welcome to my programming blog! I have plenty of posts about my programming (and some non-programming) achievements.</subtitle><author><name>Daniel Yang</name></author><entry><title type="html">Full Stack Developer</title><link href="http://localhost:4000/2020/06/28/Full-Stack/" rel="alternate" type="text/html" title="Full Stack Developer" /><published>2020-06-28T00:00:00-05:00</published><updated>2020-06-28T00:00:00-05:00</updated><id>http://localhost:4000/2020/06/28/Full-Stack</id><content type="html" xml:base="http://localhost:4000/2020/06/28/Full-Stack/">&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-07-23T19:12:37-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Daniel’s Blog</title><subtitle>Welcome to my programming blog! I have plenty of posts about my programming (and some non-programming) achievements.</subtitle><author><name>Daniel Yang</name></author><entry><title type="html">Team Blog Updates</title><link href="http://localhost:4000/2020/07/23/Team-Blog-Updates/" rel="alternate" type="text/html" title="Team Blog Updates" /><published>2020-07-23T00:00:00-05:00</published><updated>2020-07-23T00:00:00-05:00</updated><id>http://localhost:4000/2020/07/23/Team-Blog-Updates</id><content type="html" xml:base="http://localhost:4000/2020/07/23/Team-Blog-Updates/"></content><author><name>Daniel Yang</name></author><summary type="html"></summary></entry><entry><title type="html">AP Scores</title><link href="http://localhost:4000/2020/07/15/AP-Scores/" rel="alternate" type="text/html" title="AP Scores" /><published>2020-07-15T00:00:00-05:00</published><updated>2020-07-15T00:00:00-05:00</updated><id>http://localhost:4000/2020/07/15/AP-Scores</id><content type="html" xml:base="http://localhost:4000/2020/07/15/AP-Scores/">&lt;h2 id=&quot;ap&quot;&gt;AP&lt;/h2&gt;
+
+&lt;p&gt;This year, even with the strange testing conditions due to COVID-19, I still managed to complete my AP exams without any issues. I scored a 5 on AP Calculus BC, AP Physics 1, and AP Chemistry. I’m happy with my scores as I worked extremely hard preparing for the exams and I’m glad my hard work paid off.&lt;/p&gt;</content><author><name>Daniel Yang</name></author><summary type="html">AP</summary></entry><entry><title type="html">Full Stack Developer</title><link href="http://localhost:4000/2020/06/28/Full-Stack/" rel="alternate" type="text/html" title="Full Stack Developer" /><published>2020-06-28T00:00:00-05:00</published><updated>2020-06-28T00:00:00-05:00</updated><id>http://localhost:4000/2020/06/28/Full-Stack</id><content type="html" xml:base="http://localhost:4000/2020/06/28/Full-Stack/">&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
 
 &lt;p&gt;Now that I know MongoDB, Express, React, and NodeJS, I am officially a full stack developer. I still have a ways to go before I am a competent developer but this is the first step!&lt;/p&gt;
 
@@ -114,32 +116,4 @@
 
 &lt;h1 id=&quot;moving-forward&quot;&gt;Moving Forward&lt;/h1&gt;
 
-&lt;p&gt;With AP exams right around the corner, I won’t be doing much more development on the site. I really like how it is set up right now and will probably leave it be for a while.&lt;/p&gt;</content><author><name>Daniel Yang</name></author><summary type="html">Introduction</summary></entry><entry><title type="html">New Website Theme</title><link href="http://localhost:4000/2020/04/30/Website-Theme/" rel="alternate" type="text/html" title="New Website Theme" /><published>2020-04-30T00:00:00-05:00</published><updated>2020-04-30T00:00:00-05:00</updated><id>http://localhost:4000/2020/04/30/Website-Theme</id><content type="html" xml:base="http://localhost:4000/2020/04/30/Website-Theme/">&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
-
-&lt;p&gt;After a bit of testing, I have finally implemented the Hyde theme for my personal blog.&lt;/p&gt;
-
-&lt;h1 id=&quot;skills&quot;&gt;Skills&lt;/h1&gt;
-
-&lt;p&gt;Through this adventure of figuring out the theme issues, I was able to learn more about many different things, including Git and Jekyll.&lt;/p&gt;
-
-&lt;h1 id=&quot;git-project&quot;&gt;Git Project&lt;/h1&gt;
-
-&lt;p&gt;The project can be found &lt;a href=&quot;https://github.com/DanielYanger/danielyanger.github.io&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h1 id=&quot;moving-forward&quot;&gt;Moving Forward&lt;/h1&gt;
-
-&lt;p&gt;I like this theme so I’ll probably stick with it for a while. I might add a page where all of my posts are visible since I did like that from my previous theme.&lt;/p&gt;</content><author><name>Daniel Yang</name></author><summary type="html">Introduction</summary></entry><entry><title type="html">Messing around with a Discord Bot</title><link href="http://localhost:4000/2020/04/25/Discord-Bot/" rel="alternate" type="text/html" title="Messing around with a Discord Bot" /><published>2020-04-25T00:00:00-05:00</published><updated>2020-04-25T00:00:00-05:00</updated><id>http://localhost:4000/2020/04/25/Discord-Bot</id><content type="html" xml:base="http://localhost:4000/2020/04/25/Discord-Bot/">&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
-
-&lt;p&gt;Now that I have learned the basics for Python, I decided to start looking into creating a Discord bot for my robotics team’s Discord server.&lt;/p&gt;
-
-&lt;h1 id=&quot;skills&quot;&gt;Skills&lt;/h1&gt;
-
-&lt;p&gt;This project taught me a bit about the Discord API and OAuth. Furthermore, it helped me to continue working on my Python ability.&lt;/p&gt;
-
-&lt;h1 id=&quot;git-project&quot;&gt;Git Project&lt;/h1&gt;
-
-&lt;p&gt;The project can be found &lt;a href=&quot;https://github.com/DanielYanger/DiscordBot&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h1 id=&quot;moving-forward&quot;&gt;Moving Forward&lt;/h1&gt;
-
-&lt;p&gt;We currently already have a bot on the server that handles just about everything we need it to so there isn’t much use for creating one from scratch. I probably won’t do too much more with this but it was a fun side project.&lt;/p&gt;</content><author><name>Daniel Yang</name></author><summary type="html">Introduction</summary></entry></feed>
+&lt;p&gt;With AP exams right around the corner, I won’t be doing much more development on the site. I really like how it is set up right now and will probably leave it be for a while.&lt;/p&gt;</content><author><name>Daniel Yang</name></author><summary type="html">Introduction</summary></entry></feed>
