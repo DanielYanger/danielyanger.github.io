@@ -1,4 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-08-04T15:51:55-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Daniel’s Blog</title><subtitle>Welcome to my programming blog! I have plenty of posts about my programming (and some non-programming) achievements.</subtitle><author><name>Daniel Yang</name></author><entry><title type="html">PACT</title><link href="http://localhost:4000/2020/07/31/PACT/" rel="alternate" type="text/html" title="PACT" /><published>2020-07-31T00:00:00-05:00</published><updated>2020-07-31T00:00:00-05:00</updated><id>http://localhost:4000/2020/07/31/PACT</id><content type="html" xml:base="http://localhost:4000/2020/07/31/PACT/">&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-08-04T16:01:12-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Daniel’s Blog</title><subtitle>Welcome to my programming blog! I have plenty of posts about my programming (and some non-programming) achievements.</subtitle><author><name>Daniel Yang</name></author><entry><title type="html">React Visualizer</title><link href="http://localhost:4000/2020/08/03/React-Visualizer/" rel="alternate" type="text/html" title="React Visualizer" /><published>2020-08-03T00:00:00-05:00</published><updated>2020-08-03T00:00:00-05:00</updated><id>http://localhost:4000/2020/08/03/React-Visualizer</id><content type="html" xml:base="http://localhost:4000/2020/08/03/React-Visualizer/">&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
+
+&lt;p&gt;After creating a simple visualization using Python, I decided to try creating a more interative and pretty visualizer. Since I learned React, I decided to use React.&lt;/p&gt;
+
+&lt;h2 id=&quot;skills&quot;&gt;Skills&lt;/h2&gt;
+
+&lt;p&gt;This project allowed me to continue to improve my React skills as well as allowed me to better understand the simple sorting algorithms. Even though I already knew them, to create the animations meant I had to know when the numbers were swapped and how to handle that.&lt;/p&gt;
+
+&lt;h2 id=&quot;challenges&quot;&gt;Challenges&lt;/h2&gt;
+
+&lt;p&gt;One of the biggest challenges I faced was adding in a slider to control the size of the array and the speed at which it would be sorted. I could not manage to disable the slider when the sorting started so instead I prevented the state from updating, sovling the issue.&lt;/p&gt;
+
+&lt;h2 id=&quot;github-repo&quot;&gt;Github Repo&lt;/h2&gt;
+
+&lt;p&gt;The GitHub repository can be found &lt;a href=&quot;https://github.com/DanielYanger/React-Visualizer&quot;&gt;here&lt;/a&gt;. I managed to publish my project under my githubpages domain, so you can check it out &lt;a href=&quot;/React-Visualizer/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;moving-forward&quot;&gt;Moving Forward&lt;/h2&gt;
+
+&lt;p&gt;This project is quite polished, although I may go back in and add more sorting methods or fix up any bugs.&lt;/p&gt;</content><author><name>Daniel Yang</name></author><summary type="html">Introduction</summary></entry><entry><title type="html">PACT</title><link href="http://localhost:4000/2020/07/31/PACT/" rel="alternate" type="text/html" title="PACT" /><published>2020-07-31T00:00:00-05:00</published><updated>2020-07-31T00:00:00-05:00</updated><id>http://localhost:4000/2020/07/31/PACT</id><content type="html" xml:base="http://localhost:4000/2020/07/31/PACT/">&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
 
 &lt;p&gt;This summer I participated in the Program in Algorithmic and Combinatorial Thinking with Professor Rajiv Gandhi. I met a bunch of new friends, learned a great deal about theortical computer science, and had a blast.&lt;/p&gt;
 
@@ -112,18 +130,4 @@
 
 &lt;h1 id=&quot;moving-forward&quot;&gt;Moving Forward&lt;/h1&gt;
 
-&lt;p&gt;I plan to continue to refine the app and fix any bugs. Right now I plan to start creating the Python scripts to unite all the aspects of the two apps.&lt;/p&gt;</content><author><name>Daniel Yang</name></author><summary type="html">Introduction</summary></entry><entry><title type="html">Shirt Trading Database</title><link href="http://localhost:4000/2020/05/16/Shirt-Trading/" rel="alternate" type="text/html" title="Shirt Trading Database" /><published>2020-05-16T00:00:00-05:00</published><updated>2020-05-16T00:00:00-05:00</updated><id>http://localhost:4000/2020/05/16/Shirt-Trading</id><content type="html" xml:base="http://localhost:4000/2020/05/16/Shirt-Trading/">&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
-
-&lt;p&gt;I got a bit bored after getting 2/3 of the way through my AP exams, so I decided to just look into some SQL stuff. I created this simple form that handles inputs for my shirt trading addiction, I mean hobby. It’s really basic right now and since it’s hosted on GitHub Pages doesn’t work, but I thought I should show it off anyways.&lt;/p&gt;
-
-&lt;h2 id=&quot;skills&quot;&gt;Skills&lt;/h2&gt;
-
-&lt;p&gt;I learned a lot more about SQL, databases, and php, while brushing up on some basic HTML. I created my first personal SQL server (it’s on a sketchy site, I know but none of this is important or sensitive) and got it working locally.&lt;/p&gt;
-
-&lt;h2 id=&quot;repository&quot;&gt;Repository&lt;/h2&gt;
-
-&lt;p&gt;The repository can be found &lt;a href=&quot;https://github.com/DanielYanger/shirtTrading&quot;&gt;here&lt;/a&gt;, while the live site (that doesn’t work) can be found &lt;a href=&quot;https://danielyanger.github.io/shirtTrading/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;moving-forward&quot;&gt;Moving Forward&lt;/h2&gt;
-
-&lt;p&gt;This was a quick project that looks pretty bad. I plan to freshen it up a bit with CSS and add more features to make it more of a website. I plan to add a page where you can view my inventory (need to figure a way to do that on GitHub Pages or move to another free platform) and submit a trade request. Since it is AP week, I don’t know when I’ll get back to it but we will see.&lt;/p&gt;</content><author><name>Daniel Yang</name></author><summary type="html">Introduction</summary></entry></feed>
+&lt;p&gt;I plan to continue to refine the app and fix any bugs. Right now I plan to start creating the Python scripts to unite all the aspects of the two apps.&lt;/p&gt;</content><author><name>Daniel Yang</name></author><summary type="html">Introduction</summary></entry></feed>

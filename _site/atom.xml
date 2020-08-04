@@ -4,13 +4,41 @@
  <title>Daniel's Blog</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-08-04T15:51:55-05:00</updated>
+ <updated>2020-08-04T16:01:12-05:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Daniel Yang</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>React Visualizer</title>
+   <link href="http://localhost:4000/2020/08/03/React-Visualizer/"/>
+   <updated>2020-08-03T00:00:00-05:00</updated>
+   <id>http://localhost:4000/2020/08/03/React-Visualizer</id>
+   <content type="html">&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
+
+&lt;p&gt;After creating a simple visualization using Python, I decided to try creating a more interative and pretty visualizer. Since I learned React, I decided to use React.&lt;/p&gt;
+
+&lt;h2 id=&quot;skills&quot;&gt;Skills&lt;/h2&gt;
+
+&lt;p&gt;This project allowed me to continue to improve my React skills as well as allowed me to better understand the simple sorting algorithms. Even though I already knew them, to create the animations meant I had to know when the numbers were swapped and how to handle that.&lt;/p&gt;
+
+&lt;h2 id=&quot;challenges&quot;&gt;Challenges&lt;/h2&gt;
+
+&lt;p&gt;One of the biggest challenges I faced was adding in a slider to control the size of the array and the speed at which it would be sorted. I could not manage to disable the slider when the sorting started so instead I prevented the state from updating, sovling the issue.&lt;/p&gt;
+
+&lt;h2 id=&quot;github-repo&quot;&gt;Github Repo&lt;/h2&gt;
+
+&lt;p&gt;The GitHub repository can be found &lt;a href=&quot;https://github.com/DanielYanger/React-Visualizer&quot;&gt;here&lt;/a&gt;. I managed to publish my project under my githubpages domain, so you can check it out &lt;a href=&quot;/React-Visualizer/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;moving-forward&quot;&gt;Moving Forward&lt;/h2&gt;
+
+&lt;p&gt;This project is quite polished, although I may go back in and add more sorting methods or fix up any bugs.&lt;/p&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>PACT</title>
@@ -108,7 +136,6 @@
 &lt;h1 id=&quot;moving-forward&quot;&gt;Moving Forward&lt;/h1&gt;
 
 &lt;p&gt;Now that I have learned how to use MongoDB, I plan to freshen up a bit on React and then become a full stack developer! Stay tuned for that. I also plan to explore other NoSQL options such as Firebase just to expand on my knowledge base.&lt;/p&gt;
-
 </content>
  </entry>
  
