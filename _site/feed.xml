@@ -1,4 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-08-04T15:47:50-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Daniel’s Blog</title><subtitle>Welcome to my programming blog! I have plenty of posts about my programming (and some non-programming) achievements.</subtitle><author><name>Daniel Yang</name></author><entry><title type="html">Team Blog Updates</title><link href="http://localhost:4000/2020/07/23/Team-Blog-Updates/" rel="alternate" type="text/html" title="Team Blog Updates" /><published>2020-07-23T00:00:00-05:00</published><updated>2020-07-23T00:00:00-05:00</updated><id>http://localhost:4000/2020/07/23/Team-Blog-Updates</id><content type="html" xml:base="http://localhost:4000/2020/07/23/Team-Blog-Updates/">&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-08-04T15:51:55-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Daniel’s Blog</title><subtitle>Welcome to my programming blog! I have plenty of posts about my programming (and some non-programming) achievements.</subtitle><author><name>Daniel Yang</name></author><entry><title type="html">PACT</title><link href="http://localhost:4000/2020/07/31/PACT/" rel="alternate" type="text/html" title="PACT" /><published>2020-07-31T00:00:00-05:00</published><updated>2020-07-31T00:00:00-05:00</updated><id>http://localhost:4000/2020/07/31/PACT</id><content type="html" xml:base="http://localhost:4000/2020/07/31/PACT/">&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
+
+&lt;p&gt;This summer I participated in the Program in Algorithmic and Combinatorial Thinking with Professor Rajiv Gandhi. I met a bunch of new friends, learned a great deal about theortical computer science, and had a blast.&lt;/p&gt;
+
+&lt;h2 id=&quot;skills&quot;&gt;Skills&lt;/h2&gt;
+
+&lt;p&gt;PACT is a camp that focuses on learning about the math behind computer science, laying the foundation for theortical computer science. I learned about various proof methods, such as induction and contradiction, counting techniques, probablility, and graph theory.&lt;/p&gt;
+
+&lt;h2 id=&quot;moving-forward&quot;&gt;Moving Forward&lt;/h2&gt;
+
+&lt;p&gt;I loved my time at PACT and will be continuing to study under Professor Gandhi through the year round program, where we will be focusing on algorithmic design.&lt;/p&gt;</content><author><name>Daniel Yang</name></author><summary type="html">Introduction</summary></entry><entry><title type="html">Team Blog Updates</title><link href="http://localhost:4000/2020/07/23/Team-Blog-Updates/" rel="alternate" type="text/html" title="Team Blog Updates" /><published>2020-07-23T00:00:00-05:00</published><updated>2020-07-23T00:00:00-05:00</updated><id>http://localhost:4000/2020/07/23/Team-Blog-Updates</id><content type="html" xml:base="http://localhost:4000/2020/07/23/Team-Blog-Updates/">&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
 
 &lt;p&gt;Now that I have become a full-stack developer, I decided to take a crack at fixing up our team’s blog site. The framework and design of the website was already in place but there were many bugs that needed to be fixed.&lt;/p&gt;
 
@@ -116,18 +126,4 @@
 
 &lt;h2 id=&quot;moving-forward&quot;&gt;Moving Forward&lt;/h2&gt;
 
-&lt;p&gt;This was a quick project that looks pretty bad. I plan to freshen it up a bit with CSS and add more features to make it more of a website. I plan to add a page where you can view my inventory (need to figure a way to do that on GitHub Pages or move to another free platform) and submit a trade request. Since it is AP week, I don’t know when I’ll get back to it but we will see.&lt;/p&gt;</content><author><name>Daniel Yang</name></author><summary type="html">Introduction</summary></entry><entry><title type="html">Project Page</title><link href="http://localhost:4000/2020/05/04/Project-Page/" rel="alternate" type="text/html" title="Project Page" /><published>2020-05-04T00:00:00-05:00</published><updated>2020-05-04T00:00:00-05:00</updated><id>http://localhost:4000/2020/05/04/Project-Page</id><content type="html" xml:base="http://localhost:4000/2020/05/04/Project-Page/">&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
-
-&lt;p&gt;Following the switch to the Hyde theme for my blog, I decided that I wanted to have a page where all my blog posts were visible. So I coded it in as a seperate page.&lt;/p&gt;
-
-&lt;h1 id=&quot;skills&quot;&gt;Skills&lt;/h1&gt;
-
-&lt;p&gt;Through this adventure of figuring out how to program this, I learned more about Liquid and HTML to code this in.&lt;/p&gt;
-
-&lt;h1 id=&quot;git-project&quot;&gt;Git Project&lt;/h1&gt;
-
-&lt;p&gt;The project can be found &lt;a href=&quot;https://github.com/DanielYanger/danielyanger.github.io&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h1 id=&quot;moving-forward&quot;&gt;Moving Forward&lt;/h1&gt;
-
-&lt;p&gt;With AP exams right around the corner, I won’t be doing much more development on the site. I really like how it is set up right now and will probably leave it be for a while.&lt;/p&gt;</content><author><name>Daniel Yang</name></author><summary type="html">Introduction</summary></entry></feed>
+&lt;p&gt;This was a quick project that looks pretty bad. I plan to freshen it up a bit with CSS and add more features to make it more of a website. I plan to add a page where you can view my inventory (need to figure a way to do that on GitHub Pages or move to another free platform) and submit a trade request. Since it is AP week, I don’t know when I’ll get back to it but we will see.&lt;/p&gt;</content><author><name>Daniel Yang</name></author><summary type="html">Introduction</summary></entry></feed>
